@@ -9,3 +9,5 @@ title: Blog
   {% endfor %}
 </ul>
 
+"Voir les billets par thèmes":/blog/tags.html
+

@@ -40,6 +40,13 @@ new TWTR.Widget({
 }).render().setUser('parisdevops').start();
 </script>
 
+<ul class="toc">
+  {% for post in site.posts limit:3 %}
+    <li>{{ post.date | date: "%d/%m/%Y" }} : <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+  <li><a href="/blog">Voir tous les billets</a></li>
+</ul>
+
 h2(#meetups).  Les meetups
 
 * Prochain meetup : avril-mai 2011, date et lieu à définir.

@@ -27,14 +27,15 @@
               <li><a href='/meetups.html'>Meetups</a></li>
               <li><a href='/communaute.html'>Communauté</a></li>
               <li><a href='/sondages.html'>Sondages</a></li>
+              <li><a href='/blog'>Blog</a></li>
             </ol>
           </li>
-          <li>Blog
+          <li>Blog - thèmes
             <ol class="toc">
-              {% for post in site.posts limit:3 %}
-              <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%d/%m/%Y" }})</li>
+              {% for category in site.categories %}
+              {% capture category_name %}{{ category | first }}{% endcapture %}
+              <li><a href="/blog/tags.html#{{ category_name | downcase | replace(' ', '_') }}">{{ category_name }} ({{ site.categories[category_name] | size }})</a></li>
               {% endfor %}
-              <li><a href="/blog">Voir tous les billets</a></li>
             </ol>
           </li>
           <li>Online
@@ -51,6 +52,7 @@
       <div id='footer'>
         Généré par <a href="https://github.com/mojombo/jekyll/">Jekyll</a> et hébergé par <a href="http://pages.github.com">GitHub</a> (<a href="https://github.com/parisdevops/parisdevops.github.com">code source</a>).
         Template original : <a href="http://buildr.apache.org/">buildr.apache.org</a>.
+        -- Site généré {{ site.time | date: "le %d/%m/%Y à %Hh%M" }}
       </div>
     </div>
   </body>

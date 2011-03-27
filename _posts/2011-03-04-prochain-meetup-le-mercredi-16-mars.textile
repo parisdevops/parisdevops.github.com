@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Prochain meetup le mercredi 16 mars
+published: true
+categories: [meetup]
 ---
 
 C'est officiel : le prochain meetup du _Paris DevOps_ aura lieu le *mercredi 16 mars* 2011, à 19h dans les locaux de "Octo Technology":http://www.octo.com (50, avenue des Champs-Elysées, dans le 8ème - métro Roosvelt ligne 1).

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Compte-rendu du 3ème meetup Paris DevOps
+published: true
+categories: [meetup, compte-rendu]
 ---
 
 Il y avait *30 personnes* le mercredi 16 mars 2011 vers 19h chez Octo, pour le 3ème meetup du _Paris DevOps_. Au programme de la soirée : *3 présentations, sur RunDeck, Puppet et Vagrant*. Soirée présentation et démonstration d'outils orientés devops, donc, mais avec un accent sur le retour d'expérience.
