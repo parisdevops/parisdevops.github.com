@@ -34,7 +34,7 @@ new TWTR.Widget({
     live: false,
     hashtags: true,
     timestamp: true,
-    avatars: true,
+    avatars: false,
     behavior: 'all'
   }
 }).render().setUser('parisdevops').start();
