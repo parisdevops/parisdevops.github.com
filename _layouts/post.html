@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+<p class="post_date">Le {{ page.date | date: "%d/%m/%Y" }}</p>
+
+{{ content }}
+
+<h2>A lire aussi :</h2>
+<ul class="toc">
+  {% for post in site.related_posts limit:3 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%d/%m/%Y" }})</li>
+  {% endfor %}
+</ul>

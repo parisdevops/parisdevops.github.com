@@ -1,0 +1,17 @@
+---
+layout: page
+title: Sondages
+---
+
+Sondages auprès de la "communauté":/communaute.html _Paris DevOps_ :
+
+
+h2(#features).  Quelles fonctions devrait avoir le site devops paris ?
+
+"http://www.google.com/moderator/#16/e=670ed":http://www.google.com/moderator/#16/e=670ed
+
+<div id="moderator-embed-target"></div>
+<script type="text/javascript">
+MODERATOR_embed("ttps://www.google.com/moderator/#16/e=670ed", "moderator-embed-target");
+</script>
+

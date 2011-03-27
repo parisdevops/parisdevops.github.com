@@ -1,0 +1,53 @@
+---
+layout: page
+title: Les meetups
+---
+
+L'un des principaux objectifs de _Paris DevOps_ est d'organiser des meetups, sous forme d'open-spaces (discussions en petit groupes) ou de présentations plus formelles, avec toujours un accent sur les retours d'expérience.
+Le rythme est environ un meetup tous les mois ou tous les 2 mois, habituellement le mercredi vers 19h. Voir la page sur la "communauté":/communaute.html pour être informé des meetups.
+
+Voilà la liste des meetups passés et à venir :
+
+
+h2(#meetup-4).  4ème meetup : à venir...
+
+Date et lieu à définir !
+
+h2(#meetup-3).  3ème meetup : 16 mars 2011
+
+Le mercredi 16 mars 2011, à 19h dans les locaux de "Octo Technology":http://www.octo.com/ : 50 avenue des Champs Elysées au 5ème étage (métro ligne 1 station Franklin Roosvelt)
+
+*Sujet* : présentations :
+* +RunDeck+ par Bruno et Vincent. "Slides":http://www.slideshare.net/asyd/rundeck et "VM VirtualBox utilisée pour la démo":http://archives.sysadmin-fr.org/talks/rundeck/
+* +Puppet+ par Samuel.
+* +Vagrant+ par Fabrice. "Slides":http://www.slideshare.net/fabrice.bernhard/adopt-devops-philosophy-on-your-symfony-projects et "tutoriel de démarrage":http://www.theodo.fr/blog/2011/03/start-using-vagrant/
+
+*Inscriptions* : "http://lanyrd.com/2011/paris-devops-meetup-3/":http://lanyrd.com/2011/paris-devops-meetup-3/
+
+*Ils en parlent sur le web* :
+* "Compte-rendu sur le blog de _Paris DevOps_":/blog/2011/03/17/compte-rendu-du-3-eme-meetup-paris-devops.html
+* "Annonce sur le blog d'Octo":http://blog.octo.com/octo-accueille-le-3eme-meetup-devops-parisien-le-16-mars/
+
+h2(#meetup-2).  2ème meetup : 12 janvier 2011
+
+Le mercredi 12 janvier 2011, à 19h30 dans les locaux de "Theodo":http://www.theodo.fr/ : 14, rue Notre-Dame-des-Victoires au 1er étage (75002)
+
+*Sujet* : open-spaces sur les thèmes suivants : Puppet, Capistrano/Fabric, Continuous Delivery, etc.
+
+*Inscriptions* : "http://lanyrd.com/2011/paris-devops-meetup-2/":http://lanyrd.com/2011/paris-devops-meetup-2/
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog Duchess France":http://jduchess.org/duchess-france/blog/paris-devops/
+
+h2(#meetup-1).  1er meetup : 1er décembre 2010
+
+Le mercredi 1er décembre 2010, à 19h30 dans les locaux de "Theodo":http://www.theodo.fr/ : 14, rue Notre-Dame-des-Victoires au 1er étage (75002)
+
+*Sujet* : introduction et open-spaces sur les thèmes suivants : Puppet, Chef, déploiement, gestion de configuration, etc.
+
+*Inscriptions* : "http://lanyrd.com/2010/first-devops-meetup-paris/":http://lanyrd.com/2010/first-devops-meetup-paris/
+
+*Ils en parlent sur le web* :
+* "Compte-rendu sur le blog de Claude Falguière":http://cfalguiere.wordpress.com/2010/12/05/532/
+* "Compte-rendu (en anglais) sur le blog de Theodo":http://www.theodo.fr/blog/2010/12/paris-devops-meetup-in-theodos-new-office/
+
