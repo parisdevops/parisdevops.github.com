@@ -31,5 +31,6 @@ h2(#blogs).  Blogs
 Vous pouvez également lire les blogs suivants :
 * "Le blog du _Paris DevOps_":/blog
 * "Le blog d'Octo, catégorie _devops_":http://blog.octo.com/tag/devops/
+* "Le blog de Theodo, catégorie _devops_":http://www.theodo.fr/blog/tag/devops/
 * "Le blog d'asyd, catégorie _devops_":http://blog.asyd.net/tag/devops/
 
