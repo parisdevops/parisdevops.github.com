@@ -29,5 +29,6 @@ Abonnez-vous au compte "@parisdevops":http://twitter.com/parisdevops sur "Twitte
 h2(#blogs).  Blogs
 
 Vous pouvez également lire les blogs suivants :
-* "Blog du _Paris DevOps_":/blog
+* "Le blog du _Paris DevOps_":/blog
+* "Le blog d'asyd, catégorie _devops_":http://blog.asyd.net/tag/devops/
 
