@@ -3,7 +3,7 @@ layout: page
 title: Présentation
 ---
 
-_Paris DevOps_ est un groupe de personnes qui partagent la culture "DevOps":http://devops.fr/ et se réunissent régulièrement sur Paris en organisant des "meetups":/meetups.html : opens-spaces, présentations, retours d'expérience, discussions, etc. "Rejoignez-nous !":/communaute.html
+_Paris DevOps_ est un groupe de personnes qui partagent la culture "DevOps":http://devops.fr/ et se réunissent régulièrement sur Paris en organisant des "meetups":/meetups.html : open-spaces, présentations, retours d'expérience, discussions, etc. "Rejoignez-nous !":/communaute.html
 
 
 h2(#twitter).  Les dernières infos
