@@ -26,6 +26,8 @@ Le mercredi 16 mars 2011, à 19h dans les locaux de "Octo Technology":http://www
 
 *Ils en parlent sur le web* :
 * "Compte-rendu sur le blog de _Paris DevOps_":/blog/2011/03/17/compte-rendu-du-3-eme-meetup-paris-devops.html
+* "Programme sur le blog de _Paris DevOps_":/blog/2011/03/10/le-programme-du-prochain-meetup.html
+* "Annonce sur le blog de _Paris DevOps_":/blog/2011/03/04/prochain-meetup-le-mercredi-16-mars.html
 * "Annonce sur le blog d'Octo":http://blog.octo.com/octo-accueille-le-3eme-meetup-devops-parisien-le-16-mars/
 
 h2(#meetup-2).  2ème meetup : 12 janvier 2011
@@ -37,6 +39,7 @@ Le mercredi 12 janvier 2011, à 19h30 dans les locaux de "Theodo":http://www.the
 *Inscriptions* : "http://lanyrd.com/2011/paris-devops-meetup-2/":http://lanyrd.com/2011/paris-devops-meetup-2/
 
 *Ils en parlent sur le web* :
+* "Compte-rendu sur le blog de _Paris DevOps_":/blog/2011/01/13/compte-rendu-du-2-eme-meetup-paris-devops.html
 * "Annonce sur le blog Duchess France":http://jduchess.org/duchess-france/blog/paris-devops/
 
 h2(#meetup-1).  1er meetup : 1er décembre 2010
