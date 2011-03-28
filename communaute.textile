@@ -34,4 +34,5 @@ Vous pouvez également lire les blogs suivants :
 * "Le blog de Xebia, catégorie _devops_":http://blog.xebia.fr/tag/devops/
 * "Le blog de Theodo, catégorie _devops_":http://www.theodo.fr/blog/tag/devops/
 * "Le blog d'asyd, catégorie _devops_":http://blog.asyd.net/tag/devops/
+* "Le blog de Claude, catégorie _devops_":http://cfalguiere.wordpress.com/tag/devops/
 
