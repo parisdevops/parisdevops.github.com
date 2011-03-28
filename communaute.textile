@@ -35,4 +35,5 @@ Vous pouvez également lire les blogs suivants :
 * "Le blog de Theodo, catégorie _devops_":http://www.theodo.fr/blog/tag/devops/
 * "Le blog d'asyd, catégorie _devops_":http://blog.asyd.net/tag/devops/
 * "Le blog de Claude, catégorie _devops_":http://cfalguiere.wordpress.com/tag/devops/
+* "Le blog des Duchess France, catégorie _devops_":http://jduchess.org/duchess-france/blog/tag/devops/
 
