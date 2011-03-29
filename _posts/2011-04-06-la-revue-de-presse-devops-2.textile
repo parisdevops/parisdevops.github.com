@@ -1,0 +1,9 @@
+---
+layout: post
+title: La revue de presse devops n°2
+published: false
+categories: [devops, revue-presse]
+---
+
+* "lien 1":http://www.google.com/ : super lien !!
+
