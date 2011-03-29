@@ -16,6 +16,7 @@ Allez, on envoie la première !
 * "Frameworks maison de monitoring applicatif":#monitoring
 * "Utilisation de Vagrant dans une équipe":#vagrant
 * "Donner du style à Puppet":#puppet
+* "Nouvelle version de Foreman : 0.2":#foreman
 * "Le troll devops de la semaine":#troll
 
 h2(#si). Un SI propre avec iTop, RunDeck, Puppet, FusionInventory
@@ -47,10 +48,18 @@ Autre remarque plus "étonnante" : la panoplie de technologies différentes util
 h2(#puppet). Donner du style à Puppet
 
 Les p'tits gars de "Puppet Labs":http://www.puppetlabs.com/ nous ont pondu une convention de style pour écrire des modules/classes/ressources pour Puppet :
-* "http://www.puppetlabs.com/blog/a-question-of-style/":http://www.puppetlabs.com/blog/a-question-of-style/
-* "http://docs.puppetlabs.com/guides/style_guide.html":http://docs.puppetlabs.com/guides/style_guide.html
+* "L'annonce sur le blog de Puppet Labs":http://www.puppetlabs.com/blog/a-question-of-style/
+* "La convention de style":http://docs.puppetlabs.com/guides/style_guide.html
 
 Un des objectifs de Puppet étant de documenter votre infrastructure, l'idée d'avoir un style commun prend beaucoup de sens. A défaut d'être utilisé partout (on sait comment ça marche), ça peut déjà vous donner des idées en interne : est-ce que vos modules sont propre ? Ne serait-il pas temps d'en profiter pour faire un petit ménage de printemps ? ;-)
+
+h2(#foreman). Nouvelle version de Foreman : 0.2
+
+Tant qu'on est dans l'univers Puppet : "Foreman":http://theforeman.org/ viens de sortir en version 0.2, qui est d'après les développeurs "une version majeure".
+L'objectif de Foreman est de servir de point d'entrée dans la gestion des serveurs, notamment en fournissant une interface web à Puppet, mais également en gérant le provisioning avant l'entrée en scène de Puppet.
+Les principales nouveautés de cette version : nouveau look & feel, API REST étendue, support du nouveau format des rapports Puppet, etc.
+* "L'annonce de la version 0.2":http://theforeman.org/blogs/show/14
+* "Les 'release notes' complètes":http://theforeman.org/projects/foreman/wiki/ReleaseNotes
 
 h2(#troll). Le troll devops de la semaine
 
