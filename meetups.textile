@@ -52,5 +52,6 @@ Le mercredi 1er décembre 2010, à 19h30 dans les locaux de "Theodo":http://www.
 
 *Ils en parlent sur le web* :
 * "Compte-rendu sur le blog de Claude Falguière":http://cfalguiere.wordpress.com/2010/12/05/532/
+* "Compte-rendu sur le blog de l'Institut Agile":http://blog.institut-agile.fr/2010/12/devops-premieres-rencontres-et-survol.html
 * "Compte-rendu (en anglais) sur le blog de Theodo":http://www.theodo.fr/blog/2010/12/paris-devops-meetup-in-theodos-new-office/
 
