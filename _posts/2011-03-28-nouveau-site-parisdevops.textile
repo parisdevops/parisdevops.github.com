@@ -7,7 +7,7 @@ categories: [parisdevops]
 
 Et voilà, le _Paris DevOps_ se dote enfin d'un site web !
 
-L'objectif principal est de regrouper les informations concernant les "meetups":/meetups.html : dates, compte-rendus, liens vers les slides, etc.
+L'objectif principal est de regrouper les informations concernant les "meetups":/meetups.html : dates, comptes-rendus, liens vers les slides, etc.
 
 Il s'agit également du point d'entrée dans la "communauté":/communaute.html.
 
