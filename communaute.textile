@@ -28,12 +28,16 @@ Abonnez-vous au compte "@parisdevops":http://twitter.com/parisdevops sur "Twitte
 
 h2(#blogs).  Blogs
 
-Vous pouvez également lire les blogs suivants :
-* "Le blog du _Paris DevOps_":/blog
-* "Le blog d'Octo, catégorie _devops_":http://blog.octo.com/tag/devops/
-* "Le blog de Xebia, catégorie _devops_":http://blog.xebia.fr/tag/devops/
-* "Le blog de Theodo, catégorie _devops_":http://www.theodo.fr/blog/tag/devops/
-* "Le blog d'asyd, catégorie _devops_":http://blog.asyd.net/tag/devops/
-* "Le blog de Claude, catégorie _devops_":http://cfalguiere.wordpress.com/tag/devops/
-* "Le blog des Duchess France, catégorie _devops_":http://jduchess.org/duchess-france/blog/tag/devops/
+Petit tour des blogs de la communauté, catégorie _devops_ :
+
+* "Le blog de _Paris DevOps_, of course !":/blog
+* Les blogs "individuels" :
+** "Asyd":http://blog.asyd.net/tag/devops/
+** "Claude Falguière":http://cfalguiere.wordpress.com/tag/devops/
+** "Duchess France":http://jduchess.org/duchess-france/blog/tag/devops/
+* Les blogs des entreprises :
+** "Normation":http://blog.normation.com/tag/devops/
+** "Octo":http://blog.octo.com/tag/devops/
+** "Theodo":http://www.theodo.fr/blog/tag/devops/
+** "Xebia":http://blog.xebia.fr/tag/devops/
 
