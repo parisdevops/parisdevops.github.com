@@ -20,13 +20,13 @@ Allez, on envoie la première !
 
 h2(#si). Un SI propre avec iTop, RunDeck, Puppet, FusionInventory
 
-"Asyd":http://blog.asyd.net/ nous présente sa vision d'un SI "propre", en mettant en place les différents types d'outils qu'on voie habituellement dans des déploiements devops : une CMDB (Configuration Management DataBase), un outil de gestion de la configuration, un outil de gestion des jobs, et enfin un outil de gestion d'inventaire.
+"Asyd":http://blog.asyd.net/ nous présente sa vision d'un SI "propre", en mettant en place les différents types d'outils qu'on voit habituellement dans des déploiements devops : une CMDB (Configuration Management DataBase), un outil de gestion de la configuration, un outil de gestion des jobs, et enfin un outil de gestion d'inventaire.
 Que des outils open-source, qui ont assez de points d'extension pour communiquer les uns avec les autres.
 Bref, un article à lire ! "http://blog.asyd.net/2011/03/un-si-propre-avec-itop-rundeck-puppet-fusioninventory/":http://blog.asyd.net/2011/03/un-si-propre-avec-itop-rundeck-puppet-fusioninventory/
 
 h2(#monitoring). Frameworks maison de monitoring applicatif
 
-Suite au très bon post d'Etsy sur leur solution interne de monitoring applicatif "Measure Anything, Measure Everything":http://codeascraft.etsy.com/2011/02/15/measure-anything-measure-everything/, il semble que pas mal de personnes s'intéressent à la mise en place de frameworks maison de monitoring applicatif assez poussés :
+Suite au très bon post d' "Etsy":http://codeascraft.etsy.com/ sur leur solution interne de monitoring applicatif "Measure Anything, Measure Everything":http://codeascraft.etsy.com/2011/02/15/measure-anything-measure-everything/, il semble que pas mal de personnes s'intéressent à la mise en place de frameworks maison de monitoring applicatif assez poussés :
 * "Hi My Name is John...":http://railstips.org/blog/archives/2011/03/21/hi-my-name-is-john/ (...and I am addicted to analytics)
 * "Thinking about monitoring frameworks":http://www.devco.net/archives/2011/03/19/thinking_about_monitoring_frameworks.php et la suite "Monitoring Framework: Event Correlation":http://www.devco.net/archives/2011/03/25/monitoring_framework_event_correlation.php
 * Et nous également, mais on a pas encore écrit de billet sur le sujet ;-)
@@ -58,7 +58,7 @@ Pour finir en beauté !
 * Le billet d'origine : "Devops Is a Poorly Executed Scam":http://teddziuba.com/2011/03/devops-scam.html
 * La réponse : "Devops Isn't A Methodology":http://morethanseven.net/2011/03/26/Devops-isnt-a-methodology.html
 
-Pour ma part, je ne retiendrais qu'une seule chose : _"Even so, the Devops people have a bit of traction, and they're failing to capitalize on it. You've got a good thing going here, profit from that shit. Books, training, conferences, the whole bit. Get down to it."_
+Pour ma part, je ne retiendrais qu'une seule chose : _"The Devops people have a bit of traction, and they're failing to capitalize on it. You've got a good thing going here, profit from that shit. Books, training, conferences, the whole bit. Get down to it."_
 C'est donc officiel, à partir de maintenant l'accès aux meetups sera payant ! 5 000 euros la soirée, c'est raisonnable, non ? ;-)
 
 Et voilà, c'est fini pour cette semaine, RDV mercredi prochain. Et pensez à vous abonner au "flux RSS":/blog/atom.xml du blog !
