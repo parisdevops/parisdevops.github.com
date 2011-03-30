@@ -5,5 +5,22 @@ published: false
 categories: [devops, revue-presse]
 ---
 
-* "lien 1":http://www.google.com/ : super lien !!
+Au sommaire de cette 2ème revue de presse devops :
+
+* "La chanson devops":#imagine
+
+h2(#imagine). La chanson devops
+
+Oui on sait, on est un peu en retard. Mais comme on a oublié de vous le mettre dans la revue de presse précédente... Bref, voilà un énième massacre de "Imagine" de John Lennon. Mais bon c'est sur le thème devops, donc on lui pardonne !
+
+* "Imagine DevOps":http://www.youtube.com/watch?v=iYLxw6OsZug (vidéo de la chanson sur youtube)
+
+A voir en mettant le son à fond dans le bureau, pour attirer vos collègues !
+Remarque : _Paris DevOps_ décline toute responsabilité en cas de problème avec vos collègues suite au visionnage de cette vidéo ;-)
+
+---
+
+liens en vrac :
+
+* "DevOps as a service":http://doaas.com/ et @devopsaas
 
