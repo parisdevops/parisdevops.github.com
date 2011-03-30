@@ -5,21 +5,21 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Paris DevOps</title>
- <link href="http://parisdevops.github.com/blog/atom.xml" rel="self"/>
- <link href="http://parisdevops.github.com/"/>
+ <link href="http://parisdevops.fr/blog/atom.xml" rel="self"/>
+ <link href="http://parisdevops.fr/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://parisdevops.github.com/</id>
+ <id>http://parisdevops.fr/</id>
  <author>
    <name>Paris DevOps</name>
-   <email>paris-devops@googlegroups.com</email>
+   <email>parisdevops@gmail.com</email>
  </author>
 
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://parisdevops.github.com{{ post.url }}"/>
+   <link href="http://parisdevops.fr{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://parisdevops.github.com{{ post.id }}</id>
+   <id>http://parisdevops.fr{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
