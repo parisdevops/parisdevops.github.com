@@ -18,6 +18,8 @@ N'hésitez pas à vous inscrire sur la mailing-list pour être informé des proc
   <input type="submit" name="sub" value="Abonner">
 </form>
 
+Vous pouvez également vous inscrire en envoyant un e-mail à "paris-devops+subscribe@googlegroups.com":mailto:paris-devops+subscribe@googlegroups.com
+
 h2(#twitter).  Twitter
 
 Abonnez-vous au compte "@parisdevops":http://twitter.com/parisdevops sur "Twitter":http://twitter.com, et twittez avec le hashtag "#parisdevops":http://twitter.com/search?q=parisdevops
