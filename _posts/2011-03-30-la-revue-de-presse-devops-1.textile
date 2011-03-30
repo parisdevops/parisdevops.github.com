@@ -70,5 +70,5 @@ Pour finir en beauté !
 Pour ma part, je ne retiendrais qu'une seule chose : _"The Devops people have a bit of traction, and they're failing to capitalize on it. You've got a good thing going here, profit from that shit. Books, training, conferences, the whole bit. Get down to it."_
 C'est donc officiel, à partir de maintenant l'accès aux meetups sera payant ! 5 000 euros la soirée, c'est raisonnable, non ? ;-)
 
-Et voilà, c'est fini pour cette semaine, RDV mercredi prochain. Et pensez à vous abonner au "flux RSS":/blog/atom.xml du blog !
+Et voilà, c'est fini pour cette semaine, RDV mercredi prochain. Et pensez à vous abonner au "flux RSS":http://feeds.feedburner.com/parisdevops du blog !
 
