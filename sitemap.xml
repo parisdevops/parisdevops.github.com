@@ -1,0 +1,38 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>http://parisdevops.fr/</loc>
+    <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>http://parisdevops.fr/meetups.html</loc>
+  </url>
+  <url>
+    <loc>http://parisdevops.fr/communaute.html</loc>
+  </url>
+  <url>
+    <loc>http://parisdevops.fr/sondages.html</loc>
+  </url>
+  <url>
+    <loc>http://parisdevops.fr/blog/</loc>
+  </url>
+  <url>
+    <loc>http://parisdevops.fr/blog/tags.html</loc>
+  </url>
+
+  {% for post in site.posts %}
+  <url>
+    <loc>http://parisdevops.fr{{ post.url }}</loc>
+    <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
+  </url>
+  {% endfor %}
+
+</urlset>
+
