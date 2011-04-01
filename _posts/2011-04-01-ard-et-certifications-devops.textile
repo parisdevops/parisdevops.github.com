@@ -5,6 +5,10 @@ published: true
 categories: [devops]
 ---
 
+MISE A JOUR : il s'agissait bien sur d'un *poisson d'avril* !
+
+---
+
 Il faut se rendre à l'évidence, devops est encore un truc d'amateurs.
 La preuve ? "Il n'y a pas d'article devops dans wikipedia":http://fr.wikipedia.org/wiki/DevOps !
 
