@@ -22,6 +22,7 @@ Remarque : _Paris DevOps_ décline toute responsabilité en cas de problème ave
 
 liens en vrac :
 
+* "Logs Are Streams, Not Files":http://adam.heroku.com/past/2011/4/1/logs_are_streams_not_files/
 * "blueprint : Yum/RPM support":http://blog.devstructure.com/yumrpm-support
 * "Moving Fast at Scale: the slides, and a reprise in NYC":http://codeascraft.etsy.com/2011/03/19/moving-fast-at-scale-slides-and-reprise/
 * "DevOps as a service":http://doaas.com/ et @devopsaas
