@@ -9,7 +9,7 @@ Ah enfin mercredi, et la tant attendue revue de presse devops !
 Au sommaire de cette 2ème édition :
 
 * "La vérité sur devops":#verite
-* "La chanson devops":#imagine"
+* "La chanson devops":#imagine
 * "La minute people":#people
 * "Les citations devops de la semaine":#citations
 
