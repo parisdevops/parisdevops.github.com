@@ -11,7 +11,8 @@ Au sommaire de cette 2ème édition :
 * "La vérité sur devops":#verite
 * "La chanson devops":#imagine
 * "La minute people":#people
-* "Les citations devops de la semaine":#citations
+* "Le teasing de la semaine":#teasing
+* "Les citations de la semaine":#citations
 
 h2(#verite). La vérité sur devops
 
@@ -43,7 +44,12 @@ Rien de très étonnant finalement, vu que le boss de DTO Solutions est "Damon E
 
 J'en profite quand même pour vous inciter à écouter le podcast "DevOps Cafe":http://devopscafe.org/, histoire que cette section "minute people" ne soit pas totalement inutile !
 
-h2(#citations). Les citations devops de la semaine
+h2(#teasing). Le teasing de la semaine
+
+Le teasing devops de la semaine, c'est "DevOps as a service":http://doaas.com/.
+Comme c'est du teasing, on a pas plus d'informations à vous donner, mais vous pouvez jouer avec "whois" pour en savoir plus (ça, c'est l'exercice de la semaine ;-)
+
+h2(#citations). Les citations de la semaine
 
 * "@puppetmasterd":http://twitter.com/puppetmasterd : ""_#devops is the belief that sysadmins deserve and should always use the best tools, and that most of those tools look like dev tools_"":http://twitter.com/puppetmasterd/status/53534064682074114
 
@@ -56,7 +62,6 @@ liens en vrac :
 * "Logs Are Streams, Not Files":http://adam.heroku.com/past/2011/4/1/logs_are_streams_not_files/
 * "blueprint : Yum/RPM support":http://blog.devstructure.com/yumrpm-support
 * "Moving Fast at Scale: the slides, and a reprise in NYC":http://codeascraft.etsy.com/2011/03/19/moving-fast-at-scale-slides-and-reprise/
-* "DevOps as a service":http://doaas.com/ et @devopsaas
 * http://jedi.be/blog/2011/03/31/installable-vagrant-boxes/ (Sam)
 * http://www.devco.net/archives/2011/03/19/thinking_about_monitoring_frameworks.php (Sam)
 
