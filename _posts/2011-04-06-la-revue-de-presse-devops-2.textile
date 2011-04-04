@@ -62,6 +62,8 @@ liens en vrac :
 * "Logs Are Streams, Not Files":http://adam.heroku.com/past/2011/4/1/logs_are_streams_not_files/
 * "blueprint : Yum/RPM support":http://blog.devstructure.com/yumrpm-support
 * "Moving Fast at Scale: the slides, and a reprise in NYC":http://codeascraft.etsy.com/2011/03/19/moving-fast-at-scale-slides-and-reprise/
+* http://jtimberman.posterous.com/managing-my-workstations-with-chef
+* http://twitter.com/patrickdebois/statuses/54998516484943872
 * http://jedi.be/blog/2011/03/31/installable-vagrant-boxes/ (Sam)
 * http://www.devco.net/archives/2011/03/19/thinking_about_monitoring_frameworks.php (Sam)
 
