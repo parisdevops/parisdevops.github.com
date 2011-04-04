@@ -5,7 +5,7 @@ published: true
 categories: [devops, retour-experience]
 ---
 
-*... où comment j'en suis arrivé à déployer mes applications en production tout seul*
+*... ou comment j'en suis arrivé à déployer mes applications en production tout seul*
 
 _Avant propos : toute ressemblance avec des personnes ayant existé ou existant serait purement fortuite._
 
