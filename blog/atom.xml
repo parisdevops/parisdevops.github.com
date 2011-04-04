@@ -5,6 +5,7 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Paris DevOps</title>
+ <description>Actualités du groupe Paris DevOps, informations sur les meetups, revue de presse devops, etc.</description>
  <link href="http://parisdevops.fr/blog/atom.xml" rel="self"/>
  <link href="http://parisdevops.fr/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
