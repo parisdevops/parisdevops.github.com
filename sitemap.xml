@@ -13,18 +13,23 @@ layout: nil
 
   <url>
     <loc>http://parisdevops.fr/meetups.html</loc>
+    <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
   </url>
   <url>
     <loc>http://parisdevops.fr/communaute.html</loc>
+    <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
   </url>
   <url>
     <loc>http://parisdevops.fr/sondages.html</loc>
+    <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
   </url>
   <url>
     <loc>http://parisdevops.fr/blog/</loc>
+    <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
   </url>
   <url>
     <loc>http://parisdevops.fr/blog/tags.html</loc>
+    <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
   </url>
 
   {% for post in site.posts %}
