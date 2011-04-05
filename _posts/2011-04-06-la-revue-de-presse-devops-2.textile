@@ -89,6 +89,7 @@ Comme c'est du teasing, on a pas plus d'informations à vous donner, mais vous p
 h2(#citations). Les citations de la semaine
 
 * "@puppetmasterd":http://twitter.com/puppetmasterd : ""_#devops is the belief that sysadmins deserve and should always use the best tools, and that most of those tools look like dev tools_"":http://twitter.com/puppetmasterd/status/53534064682074114
+* "@DEVOPS_BORAT":http://twitter.com/DEVOPS_BORAT : ""_Is true DevOps is first culture then technology. Is why in startup we interview candidate in literature, classical music and ballet._"":http://twitter.com/DEVOPS_BORAT/statuses/55312363431276545
 
 Voilà, c'est tout pour cette semaine !
 
