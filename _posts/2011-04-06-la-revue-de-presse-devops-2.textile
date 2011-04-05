@@ -8,6 +8,7 @@ categories: [devops, revue-presse]
 Ah enfin mercredi, et la tant attendue revue de presse devops !
 Au sommaire de cette 2ème édition :
 
+* "Date du prochain meetup : 4 mai":#meetup
 * "Les résultats de l'enquête devops 2011":#enquete
 * "Vidéo de la conférence 'Moving Fast at Scale'":#etsy
 * "Utiliser Chef pour gérer des postes client":#chef
@@ -16,6 +17,11 @@ Au sommaire de cette 2ème édition :
 * "La minute people":#people
 * "Le teasing de la semaine":#teasing
 * "Les citations de la semaine":#citations
+
+h2(#meetup). Date du prochain meetup : 4 mai
+
+On commence par un peu d'auto-promo : la date du prochain meetup du _Paris DevOps_ à été annoncée hier, il s'agit du mercredi 4 mai.
+Je vous laisse lire "l'annonce officielle":/blog/2011/04/05/prochain-meetup-le-mercredi-4-mai.html, puis filez vous "inscrire":http://lanyrd.com/2011/paris-devops-meetup-4/ !
 
 h2(#enquete). Les résultats de l'enquête devops 2011
 
