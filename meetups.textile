@@ -4,14 +4,23 @@ title: Les meetups
 ---
 
 L'un des principaux objectifs de _Paris DevOps_ est d'organiser des meetups, sous forme d'open-spaces (discussions en petit groupes) ou de présentations plus formelles, avec toujours un accent sur les retours d'expérience.
-Le rythme est environ un meetup tous les mois ou tous les 2 mois, habituellement le mercredi vers 19h. Voir la page sur la "communauté":/communaute.html pour être informé des meetups.
+Le rythme est environ un meetup tous les mois ou tous les 2 mois, habituellement le mercredi vers 19h. Voir la page sur la "communauté":/communaute.html pour être informé des meetups. Vous pouvez également vous "abonner au calendrier":https://www.google.com/calendar/ical/parisdevops%40gmail.com/public/basic.ics (format ical).
 
 Voilà la liste des meetups passés et à venir :
 
 
-h2(#meetup-4).  4ème meetup : à venir...
+h2(#meetup-4).  4ème meetup : 4 mai 2011
 
-Date et lieu à définir !
+Le mercredi 4 mai 2011, à 19h dans les locaux de "Xebia":http://www.xebia.fr/ : 156 Boulevard Haussmann dans le 8ème.
+
+*Sujet* :
+* Retour d'expérience sur un gros projet agile distribué (100 personnes, 10 équipes, 4 pays) orienté culture DevOps, process... et (un peu ;) outils.
+* Monitoring dans un cadre devops : infrastructure, services, business, trend monitoring, alert monitoring, etc.
+
+*Inscriptions* : "http://lanyrd.com/2011/paris-devops-meetup-4/":http://lanyrd.com/2011/paris-devops-meetup-4/
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2011/04/05/prochain-meetup-le-mercredi-4-mai.html
 
 h2(#meetup-3).  3ème meetup : 16 mars 2011
 
