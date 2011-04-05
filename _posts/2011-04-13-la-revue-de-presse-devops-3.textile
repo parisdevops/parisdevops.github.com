@@ -1,0 +1,13 @@
+---
+layout: post
+title: La revue de presse devops n°3
+published: false
+categories: [devops, revue-presse]
+---
+
+monitoring :
+
+* "Monitoring Framework: Composable Architectures":http://www.devco.net/archives/2011/04/04/monitoring_framework_composable_architectures.php
+* "Logs Are Streams, Not Files":http://adam.heroku.com/past/2011/4/1/logs_are_streams_not_files/
+
+
