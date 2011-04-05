@@ -32,18 +32,3 @@ h2(#irc).  IRC
 
 Le channel officiel du groupe est *##parisdevops* sur *freenode*.
 
-h2(#blogs).  Blogs
-
-Petit tour des blogs de la communauté, catégorie _devops_ :
-
-* "Le blog de _Paris DevOps_, of course !":/blog
-* Les blogs "individuels" :
-** "Asyd":http://blog.asyd.net/tag/devops/
-** "Claude Falguière":http://cfalguiere.wordpress.com/tag/devops/
-** "Duchess France":http://jduchess.org/duchess-france/blog/tag/devops/
-* Les blogs des entreprises :
-** "Normation":http://blog.normation.com/tag/devops/
-** "Octo":http://blog.octo.com/tag/devops/
-** "Theodo":http://www.theodo.fr/blog/tag/devops/
-** "Xebia":http://blog.xebia.fr/tag/devops/
-

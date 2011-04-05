@@ -20,6 +20,10 @@ layout: nil
     <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
   </url>
   <url>
+    <loc>http://parisdevops.fr/planet.html</loc>
+    <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
+  </url>
+  <url>
     <loc>http://parisdevops.fr/sondages.html</loc>
     <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
   </url>
