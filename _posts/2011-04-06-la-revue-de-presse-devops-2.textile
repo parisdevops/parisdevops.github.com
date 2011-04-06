@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La revue de presse devops n°2
-published: false
+published: true
 categories: [devops, revue-presse]
 ---
 
@@ -66,7 +66,7 @@ Bref, ici l'auteur définit devops par les 4 points suivants :
 * les admin système sont impliqués dans le développement des nouvelles fonctionnalités dès le départ
 
 L'auteur écrit en anglais "to care about", je pense vraiment que le bon mot est "s'investir" : les devs s'investissent dans le travail des ops, et inversement.
-Dommage qu'il n'ait pas mentionné la finalité de devops, qui est finalement le plus important : une meilleure gestion de l'infrastructure et des applications pour une meilleure "expérience utilisateur" (pas d'utilisateur, pas d'IT ;-)
+Dommage qu'il n'ait pas mentionné la finalité de devops (gestion plus fluide/souple de l'infrastructure et des applications, meilleure "expérience utilisateur")
 
 h2(#imagine). La chanson devops
 
@@ -98,11 +98,4 @@ h2(#citations). Les citations de la semaine
 * "@DEVOPS_BORAT":http://twitter.com/DEVOPS_BORAT : ""_Is true DevOps is first culture then technology. Is why in startup we interview candidate in literature, classical music and ballet._"":http://twitter.com/DEVOPS_BORAT/statuses/55312363431276545
 
 Voilà, c'est tout pour cette semaine !
-
----
-
-liens en vrac :
-
-* http://jedi.be/blog/2011/03/31/installable-vagrant-boxes/ (Sam)
-* http://www.devco.net/archives/2011/03/19/thinking_about_monitoring_frameworks.php (Sam)
 
