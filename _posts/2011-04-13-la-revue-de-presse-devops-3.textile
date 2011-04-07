@@ -17,3 +17,4 @@ liens en vrac :
 * http://jedi.be/blog/2011/03/31/installable-vagrant-boxes/ (Sam)
 * http://www.devco.net/archives/2011/03/19/thinking_about_monitoring_frameworks.php (Sam)
 * http://teddziuba.com/2011/03/devops-scam.html , une controverse du mouvement devops
+* http://groups.google.com/group/lille-devops/browse_thread/thread/73880cc9650bc75e , lille devops, thread sur le monitoring (faudrais peut etre faire un annuaire des groupes devops en france ... et puis tant qu'on y est , une page qui explique un peu plus ce que c'est que devops, pour nous ... (bon , je blablate, mais je fait rien)
