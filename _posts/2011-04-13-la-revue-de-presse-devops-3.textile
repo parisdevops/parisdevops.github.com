@@ -16,4 +16,4 @@ liens en vrac :
 
 * http://jedi.be/blog/2011/03/31/installable-vagrant-boxes/ (Sam)
 * http://www.devco.net/archives/2011/03/19/thinking_about_monitoring_frameworks.php (Sam)
-
+* http://teddziuba.com/2011/03/devops-scam.html , une controverse du mouvement devops
