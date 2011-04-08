@@ -5,18 +5,48 @@ published: false
 categories: [devops, revue-presse]
 ---
 
-monitoring :
+Bienvenue dans cette 3ème revue de presse devops, avec au sommaire :
 
-* "Monitoring Framework: Composable Architectures":http://www.devco.net/archives/2011/04/04/monitoring_framework_composable_architectures.php
-* "Logs Are Streams, Not Files":http://adam.heroku.com/past/2011/4/1/logs_are_streams_not_files/
+* "Facebook open-source son nouveau data-center":#fb-open-compute
+* "Il est temps de revoir votre système de monitoring":#monitoring
+* "Les sorties de la semaine":#sorties
+
+h2(#fb-open-compute). Facebook open-source son nouveau data-center
+
+La nouvelle de la semaine, c'est bien sur l'annonce de Facebook : "Open Compute":http://opencompute.org/.
+Après avoir mis en place leur propre data-center, ils ont décidé de mettre en open-source toutes les specs, que ce soit pour les serveurs (chassis, cartes-mères, etc) ou le data-center en lui-même (électricité, racks, etc). Et annoncent travailler avec différents partenaires (Rackspace, Dell, HP, Intel, AMD, etc) pour continuer à développer le projet.
+
+"Jesse Robbins":http://twitter.com/jesserobbins fait une "analyse intéressante de cette annonce":http://radar.oreilly.com/2011/04/facebook-open-compute-ops.html (en anglais) : les constructeurs sont encore obstinés par les serveurs individuels, alors que pour faire du web il faut bosser au niveau de l'infrastructure dans son ensemble, avec des solutions automatisées de reprise sur incident lorsqu'un serveur ne répond plus.
+
+D'où le nombre grandissant d'acteurs qui développent leur propre infrastructure en interne. Et si facebook n'est pas le premier à construire son propre data-center pour ses propres besoins, c'est en revanche le premier à dévoiller son fonctionnement et ses spécifications détaillées. Peut-être que le projet Open Compute permettra d'impliquer les constructeurs dans une logique infrastructure plutôt que serveur.
+Et penser infrastructure, en permettant au software de provisionner automatiquement le hardware, c'est penser devops ;-)
+
+h2(#monitoring). Il est temps de revoir votre système de monitoring
+
+Quelle est la flexibilité de votre système de monitoring actuel ? Est-il est capable de gérer à la fois votre infrastructure, vos services, la partie business de vos applications ?
+
+"R.I. Pienaar":http://www.devco.net/ propose une approche intéressante dans son billet "Monitoring Framework: Composable Architectures":http://www.devco.net/archives/2011/04/04/monitoring_framework_composable_architectures.php (en anglais) : un système faiblement couplé avec une brique de routage au milieu, qui fait transiter des évènements en JSON.
+L'idée est de composer votre système de monitoring comme vous l'entendez, notament en laissant la possibilité aux développeurs de s'intégrer facilement dedans, et de pousser des évènements business depuis les applications.
+
+Dans le même genre, un article titré "Logs Are Streams, Not Files":http://adam.heroku.com/past/2011/4/1/logs_are_streams_not_files/, où pourquoi il faut traiter ses logs comme un flux, plutôt que de les entasser dans un fichier avant de les analyser. Ce qui rejoint l'idée d'un système de monitoring ouvert, où les logs sont traités comme des évènements.
+Bref, il y a matière à réflexion.
+
+h2(#sortie). Les sorties de la semaine
+
+* "Puppet MCollective 1.1.4":http://docs.puppetlabs.com/mcollective/releasenotes.html#1_1_4 : une nouvelle version de la branche de développement (1.1.x), mais avec une nouvelle fonctionnalité de taille : la possibilité d'écrire des actions dans des langages autre que Ruby.
+
+Voilà, c'est tout pour cette semaine !
+
+---
 
 liens en vrac :
 
 * http://www.slideshare.net/arosien/scaling-at-wealthfront
-* http://opencompute.org/ : plateforme de facebook
 * http://www.kitchensoap.com/2011/04/07/resilience-engineering-part-i/
 
 * http://jedi.be/blog/2011/03/31/installable-vagrant-boxes/ (Sam)
 * http://www.devco.net/archives/2011/03/19/thinking_about_monitoring_frameworks.php (Sam)
 * http://teddziuba.com/2011/03/devops-scam.html , une controverse du mouvement devops
 * http://groups.google.com/group/lille-devops/browse_thread/thread/73880cc9650bc75e , lille devops, thread sur le monitoring (faudrais peut etre faire un annuaire des groupes devops en france ... et puis tant qu'on y est , une page qui explique un peu plus ce que c'est que devops, pour nous ... (bon , je blablate, mais je fait rien)
+* http://www.devopsfr.com/
+
