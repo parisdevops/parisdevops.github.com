@@ -44,9 +44,7 @@ Voilà, c'est tout pour cette semaine !
 
 h2(#liens). Quelques Liens
 
-* http://www.slideshare.net/arosien/scaling-at-wealthfront
-* http://www.kitchensoap.com/2011/04/07/resilience-engineering-part-i/
-* http://teddziuba.com/2011/03/devops-scam.html , une controverse du mouvement devops, article fort interessant, qui explique que le mouvement devops n'est pas clair, en effet, il soulève des problèmes mais ne propose pas (encore) de solutions clair.
-* http://groups.google.com/group/lille-devops/browse_thread/thread/73880cc9650bc75e , un petit post de nos amis de Lille, sur le monitoring "L'Hypervision : la Supervision Open Source 2.0" , pour preparer le prochain meetup ... 
-* http://www.devopsfr.com/
-
+* "http://www.slideshare.net/arosien/scaling-at-wealthfront":http://www.slideshare.net/arosien/scaling-at-wealthfront
+* "http://www.kitchensoap.com/2011/04/07/resilience-engineering-part-i/":http://www.kitchensoap.com/2011/04/07/resilience-engineering-part-i/
+* "http://teddziuba.com/2011/03/devops-scam.html":http://teddziuba.com/2011/03/devops-scam.html , une controverse du mouvement devops, article fort interessant, qui explique que le mouvement devops n'est pas clair, en effet, il soulève des problèmes mais ne propose pas (encore) de solutions clair.
+* "http://groups.google.com/group/lille-devops/browse_thread/thread/73880cc9650bc75e":http://groups.google.com/group/lille-devops/browse_thread/thread/73880cc9650bc75e , un petit post de nos amis de Lille, sur le monitoring "L'Hypervision : la Supervision Open Source 2.0" , pour preparer le prochain meetup ... 
