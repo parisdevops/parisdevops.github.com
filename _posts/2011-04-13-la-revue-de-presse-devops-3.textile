@@ -35,6 +35,8 @@ h2(#sortie). Les sorties de la semaine
 
 * "Puppet MCollective 1.1.4":http://docs.puppetlabs.com/mcollective/releasenotes.html#1_1_4 : une nouvelle version de la branche de développement (1.1.x), mais avec une nouvelle fonctionnalité de taille : la possibilité d'écrire des actions dans des langages autre que Ruby.
 
+* "Installable Vagrant Boxes":http://jedi.be/blog/2011/03/31/installable-vagrant-boxes/ : Patrick Debois a publier une methode pour bundlé des box vagrant avec vagrant integré dans l'executable, plus besoin d'installer vagrant sur la machine, juste besoin d'une JVM et ... de JRuby, malheureusement moins frequent. Le but de cet outils est donc de faire rapidement de demos de Vagrant, dans la lignée du dernier meetup !
+
 Voilà, c'est tout pour cette semaine !
 
 ---
@@ -43,8 +45,6 @@ liens en vrac :
 
 * http://www.slideshare.net/arosien/scaling-at-wealthfront
 * http://www.kitchensoap.com/2011/04/07/resilience-engineering-part-i/
-
-* http://jedi.be/blog/2011/03/31/installable-vagrant-boxes/ (Sam)
 * http://www.devco.net/archives/2011/03/19/thinking_about_monitoring_frameworks.php (Sam)
 * http://teddziuba.com/2011/03/devops-scam.html , une controverse du mouvement devops
 * http://groups.google.com/group/lille-devops/browse_thread/thread/73880cc9650bc75e , lille devops, thread sur le monitoring (faudrais peut etre faire un annuaire des groupes devops en france ... et puis tant qu'on y est , une page qui explique un peu plus ce que c'est que devops, pour nous ... (bon , je blablate, mais je fait rien)
