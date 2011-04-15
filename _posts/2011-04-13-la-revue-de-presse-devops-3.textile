@@ -10,7 +10,7 @@ Bienvenue dans cette 3ème revue de presse devops, avec au sommaire :
 * "Facebook open-source son nouveau data-center":#fb-open-compute
 * "Il est temps de revoir votre système de monitoring":#monitoring
 * "Les sorties de la semaine":#sorties
-* "Quelques Liens":#liens
+* "Quelques liens":#liens
 
 h2(#fb-open-compute). Facebook open-source son nouveau data-center
 
@@ -38,13 +38,11 @@ h2(#sortie). Les sorties de la semaine
 
 * "Installable Vagrant Boxes":http://jedi.be/blog/2011/03/31/installable-vagrant-boxes/ : Patrick Debois a publier une méthode pour "bundlé" des boxes vagrant avec vagrant integré dans l'executable, plus besoin d'installer vagrant sur la machine, juste besoin d'une JVM et ... de JRuby, malheureusement moins frequent. Le but de cet outils est donc de faire rapidement de demos de Vagrant, dans la lignée du dernier meetup !
 
-Voilà, c'est tout pour cette semaine !
-
----
-
-h2(#liens). Quelques Liens
+h2(#liens). Quelques liens
 
 * "http://www.slideshare.net/arosien/scaling-at-wealthfront":http://www.slideshare.net/arosien/scaling-at-wealthfront
 * "http://www.kitchensoap.com/2011/04/07/resilience-engineering-part-i/":http://www.kitchensoap.com/2011/04/07/resilience-engineering-part-i/
 * "http://teddziuba.com/2011/03/devops-scam.html":http://teddziuba.com/2011/03/devops-scam.html , une controverse du mouvement devops, article fort interessant, qui explique que le mouvement devops n'est pas clair, en effet, il soulève des problèmes mais ne propose pas (encore) de solutions clair.
 * "http://groups.google.com/group/lille-devops/browse_thread/thread/73880cc9650bc75e":http://groups.google.com/group/lille-devops/browse_thread/thread/73880cc9650bc75e , un petit post de nos amis de Lille, sur le monitoring "L'Hypervision : la Supervision Open Source 2.0" , pour preparer le prochain meetup ... 
+
+Voilà, c'est tout pour cette semaine !
