@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La revue de presse devops n°4
-published: false
+published: true
 categories: [devops, revue-presse]
 ---
 
