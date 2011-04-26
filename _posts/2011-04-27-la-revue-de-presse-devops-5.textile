@@ -5,6 +5,12 @@ published: false
 categories: [devops, revue-presse]
 ---
 
+* http://vimeo.com/user6885999
+* http://groups.google.com/group/devops-toolchain/browse_thread/thread/d6416d5fb03b2e45
+* http://twitter.com/#!/endemics/status/62505566748160000
+* http://www.thecloudcast.net/2011/03/episode-4-devops-developing-new-it.html
+* http://www.slideshare.net/botchagalupe/leanops-as-part-of-devops
+
 Bienvenue dans cette 5ème revue de presse devops, avec au sommaire :
 
 * "Présentation de Cloud Foundry":#cloudfoundry
