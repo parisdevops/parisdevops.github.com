@@ -1,0 +1,9 @@
+---
+layout: post
+title: La revue de presse devops n°6
+published: false
+categories: [devops, revue-presse]
+---
+
+
+
