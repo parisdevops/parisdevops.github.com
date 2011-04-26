@@ -5,5 +5,8 @@ published: false
 categories: [devops, revue-presse]
 ---
 
-
+* http://www.codinghorror.com/blog/2011/04/working-with-the-chaos-monkey.html
+* http://blog.rightscale.com/2011/04/25/amazon-ec2-outage-summary-and-lessons-learned/
+* http://broadcast.oreilly.com/2011/04/the-aws-outage-the-clouds-shining-moment.html
+* http://justinsb.posterous.com/aws-down-why-the-sky-is-falling
 
