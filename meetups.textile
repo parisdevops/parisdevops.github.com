@@ -12,7 +12,7 @@ Voilà la liste des meetups passés et à venir :
 
 h2(#meetup-4).  4ème meetup : 4 mai 2011
 
-Le mercredi 4 mai 2011, à 19h dans les locaux de "Xebia":http://www.xebia.fr/ : 156 Boulevard Haussmann dans le 8ème.
+Le mercredi 4 mai 2011, à 19h dans les locaux de "Xebia":http://www.xebia.fr/ : 156 Boulevard Haussmann dans le 8ème (Immeuble A – 7e étage).
 
 *Sujet* :
 * Retour d'expérience sur un gros projet agile distribué (100 personnes, 10 équipes, 4 pays) orienté culture DevOps, process... et (un peu ;) outils.
