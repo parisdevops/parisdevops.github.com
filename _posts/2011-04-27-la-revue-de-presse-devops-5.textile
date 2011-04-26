@@ -5,5 +5,9 @@ published: false
 categories: [devops, revue-presse]
 ---
 
-
+* http://www.codingbynumbers.com/2011/04/coding-by-numbers-episode-24-devops.html
+* http://www.zeroturnaround.com/blog/survey-how-do-you-update-your-app-in-production/
+* http://blog.xebia.fr/2011/04/13/lancement-du-projet-platform-as-a-service-cloud-foundry-de-spring-source/
+* http://linuxfr.org/news/cloud-foundry-la-solution-paas-libre
+* http://parisdevops.fr/meetups.html#meetup-4
 
