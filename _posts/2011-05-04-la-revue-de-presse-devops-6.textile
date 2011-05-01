@@ -11,6 +11,10 @@ categories: [devops, revue-presse]
 * http://www.threedrunkensysadsonthe.net/2011/04/murder-for-fun-and-profit/
 * http://davidduffett.net/post/4663483715/database-continuous-integration-and-deployment-with-red
 * http://blog.heyo.com/how-heyo-deploys-software
+* http://blog.normation.com/2011/04/28/cfengine-3-1-5-is-nearly-out-what-can-we-expect-from-it/
+* http://www.slideshare.net/Alvagante/puppi-puppet-strings-to-the-shell
+* http://www.youtube.com/watch?v=GCO8gb37E2Q
+* http://www.youtube.com/watch?v=dZIMQ28Hz2Y
 
 * http://aws.amazon.com/message/65648/
 * http://www.codinghorror.com/blog/2011/04/working-with-the-chaos-monkey.html
