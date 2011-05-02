@@ -26,7 +26,8 @@ Voilà, c'est tout pour cette semaine. RDV ce soir pour le "4ème meetup":http:/
 
 ---
 
-* http://www.youtube.com/watch?v=RlsK7x9ID4w
+* http://www.opscode.com/blog/2011/05/02/chef-0-10-0-released/
+* http://www.youtube.com/watch?v=RlsK7x9ID4w : vidéo monty python
 * http://blog.zenoss.com/2011/04/the-case-for-infrastructure-automation/
 * http://www.threedrunkensysadsonthe.net/2011/04/murder-for-fun-and-profit/
 * http://davidduffett.net/post/4663483715/database-continuous-integration-and-deployment-with-red
