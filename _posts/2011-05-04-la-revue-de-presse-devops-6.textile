@@ -15,6 +15,7 @@ categories: [devops, revue-presse]
 * http://www.slideshare.net/Alvagante/puppi-puppet-strings-to-the-shell
 * http://www.youtube.com/watch?v=GCO8gb37E2Q
 * http://www.youtube.com/watch?v=dZIMQ28Hz2Y
+* http://www.infoq.com/news/2011/05/unix-orchestration
 
 * http://aws.amazon.com/message/65648/
 * http://www.codinghorror.com/blog/2011/04/working-with-the-chaos-monkey.html
