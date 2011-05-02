@@ -5,8 +5,28 @@ published: false
 categories: [devops, revue-presse]
 ---
 
+Bienvenue dans cette 6ème revue de presse devops, avec au sommaire :
+
+* "2011 : il est l'heure de sortir de notre 'bulle'":#bulle
+* "Tour d'horizon des outils de déploiement":#tools
+
+h2(#bulle). 2011 : il est l'heure de sortir de notre 'bulle'
+
+"Damon Edwards":http://twitter.com/damonedwards nous fait un joli point de la situation actuelle du mouvement devops, intutilé "2011: Time to Escape the DevOps Echo Chamber":http://www.agileweboperations.com/2011_escaping_devops_echo_chamber.
+En résumé, devops à convaincu les utilisateurs de la première heure, mais pas encore le "mainstream". Le problème, c'est que les gens qui font du devops actuellement se sont enfermés dans une bulle devops. Il faut en sortir pour "précher la bonne parole", afin que devops devienne mainstream.
+
+Sa solution, en 3 étapes :
+* Se recentrer sur le problème métier : l'objectif de devops est d'améliorer le process métier, afin qu'il soit plus agile et plus 
+
+h2(#tools). Tour d'horizon des outils de déploiement
+
+"InfoQ":http://www.infoq.com/ nous propose un petit "tour d'horizon des outils de déploiement":http://www.infoq.com/news/2011/05/unix-orchestration (en anglais) : une présentation succincte de ControlTier/RunDeck, Fabric, Func, Chef/Knife et Puppet/MCollective.
+
+Voilà, c'est tout pour cette semaine. RDV ce soir pour le "4ème meetup":http://parisdevops.fr/meetups.html#meetup-4 !
+
+---
+
 * http://www.youtube.com/watch?v=RlsK7x9ID4w
-* http://www.agileweboperations.com/2011_escaping_devops_echo_chamber
 * http://blog.zenoss.com/2011/04/the-case-for-infrastructure-automation/
 * http://www.threedrunkensysadsonthe.net/2011/04/murder-for-fun-and-profit/
 * http://davidduffett.net/post/4663483715/database-continuous-integration-and-deployment-with-red
@@ -15,7 +35,6 @@ categories: [devops, revue-presse]
 * http://www.slideshare.net/Alvagante/puppi-puppet-strings-to-the-shell
 * http://www.youtube.com/watch?v=GCO8gb37E2Q
 * http://www.youtube.com/watch?v=dZIMQ28Hz2Y
-* http://www.infoq.com/news/2011/05/unix-orchestration
 
 * http://aws.amazon.com/message/65648/
 * http://www.codinghorror.com/blog/2011/04/working-with-the-chaos-monkey.html
