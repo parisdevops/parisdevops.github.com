@@ -26,6 +26,7 @@ Voilà, c'est tout pour cette semaine. RDV ce soir pour le "4ème meetup":http:/
 
 ---
 
+* http://www.puppetlabs.com/blog/relicensing-puppet-to-apache-2-0/
 * http://www.opscode.com/blog/2011/05/02/chef-0-10-0-released/
 * http://www.youtube.com/watch?v=RlsK7x9ID4w : vidéo monty python
 * http://blog.zenoss.com/2011/04/the-case-for-infrastructure-automation/
