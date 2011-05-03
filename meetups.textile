@@ -22,6 +22,7 @@ Le mercredi 4 mai 2011, à 19h dans les locaux de "Xebia":http://www.xebia.fr/ :
 
 *Ils en parlent sur le web* :
 * "Annonce sur le blog de _Paris DevOps_":/blog/2011/04/05/prochain-meetup-le-mercredi-4-mai.html
+* "Annonce sur le blog de Xebia":http://blog.xebia.fr/2011/05/03/paris-devops-meetup-chez-xebia-le-4-mai/
 
 h2(#meetup-3).  3ème meetup : 16 mars 2011
 
