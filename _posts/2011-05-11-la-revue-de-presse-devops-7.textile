@@ -5,6 +5,8 @@ published: false
 categories: [devops, revue-presse]
 ---
 
+* http://www.agileweboperations.com/prerequisites-for-continuous-deployment
+
 * http://blog.zenoss.com/2011/04/the-case-for-infrastructure-automation/
 * http://www.threedrunkensysadsonthe.net/2011/04/murder-for-fun-and-profit/
 * http://davidduffett.net/post/4663483715/database-continuous-integration-and-deployment-with-red
