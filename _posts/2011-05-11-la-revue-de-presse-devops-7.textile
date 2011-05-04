@@ -6,6 +6,8 @@ categories: [devops, revue-presse]
 ---
 
 * http://www.agileweboperations.com/prerequisites-for-continuous-deployment
+* http://www.dzone.com/links/r/devops_why_silos_suck_and_how_to_break_them.html
+* http://agileanddone.blogspot.com/2011/04/how-to-realize-continuous-delivery.html
 
 * http://blog.zenoss.com/2011/04/the-case-for-infrastructure-automation/
 * http://www.threedrunkensysadsonthe.net/2011/04/murder-for-fun-and-profit/
