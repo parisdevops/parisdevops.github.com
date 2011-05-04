@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La revue de presse devops n°6
-published: false
+published: true
 categories: [devops, revue-presse]
 ---
 
@@ -34,9 +34,9 @@ h2(#tools). Du côté des outils
 
 "InfoQ":http://www.infoq.com/ nous propose un petit "tour d'horizon des outils de déploiement":http://www.infoq.com/news/2011/05/unix-orchestration (en anglais) : une présentation succincte de ControlTier/RunDeck, Fabric, Func, Chef/Knife et Puppet/MCollective.
 
-Et si vous utilisez "Puppet":http://www.puppetlabs.com/puppet/introduction/, voici une "présentation sur l'outil de déploiement Puppi":http://www.slideshare.net/Alvagante/puppi-puppet-strings-to-the-shell qui devrait vous intéresser. 
-* http://www.youtube.com/watch?v=GCO8gb37E2Q
-* http://www.youtube.com/watch?v=dZIMQ28Hz2Y
+Et si vous utilisez "Puppet":http://www.puppetlabs.com/puppet/introduction/, voici une "présentation sur l'outil de déploiement Puppi":http://www.slideshare.net/Alvagante/puppi-puppet-strings-to-the-shell qui devrait vous intéresser. Avec 2 screencasts :
+* "Démonstration de Puppi":http://www.youtube.com/watch?v=GCO8gb37E2Q
+* "Démonstration de l'utilisation de Puppi avec MCollective":http://www.youtube.com/watch?v=dZIMQ28Hz2Y
 
 L'actualité des outils de "configuration management" :
 * "Chef":http://www.opscode.com/chef/ viens de sortir en "version 0.10.0":http://www.opscode.com/blog/2011/05/02/chef-0-10-0-released/.
@@ -48,16 +48,4 @@ h2(#video). La vidéo de la semaine
 Et pour finir en beauté, "une vidéo à voir absolument":http://www.youtube.com/watch?v=RlsK7x9ID4w, où les Monty Python vous présentent leur vision de devops...
 
 Voilà, c'est tout pour cette semaine. RDV ce soir pour le "4ème meetup":http://parisdevops.fr/meetups.html#meetup-4 !
-
----
-
-* http://blog.zenoss.com/2011/04/the-case-for-infrastructure-automation/
-* http://www.threedrunkensysadsonthe.net/2011/04/murder-for-fun-and-profit/
-* http://davidduffett.net/post/4663483715/database-continuous-integration-and-deployment-with-red
-
-* http://aws.amazon.com/message/65648/
-* http://www.codinghorror.com/blog/2011/04/working-with-the-chaos-monkey.html
-* http://blog.rightscale.com/2011/04/25/amazon-ec2-outage-summary-and-lessons-learned/
-* http://broadcast.oreilly.com/2011/04/the-aws-outage-the-clouds-shining-moment.html
-* http://justinsb.posterous.com/aws-down-why-the-sky-is-falling
 
