@@ -10,6 +10,14 @@ Vous pouvez vous abonner au calendrier : via "Google Calendar":https://www.googl
 Voilà la liste des meetups passés et à venir :
 
 
+h2(#meetup-5).  5ème meetup : 15 juin 2011
+
+Le mercredi 15 juin 2011, heure et lieu à préciser.
+
+*Sujet* : en cours de discussion sur la "mailing-list":/communaute.html - n'hésitez pas à participer !
+
+*Inscriptions* : "http://lanyrd.com/2011/paris-devops-meetup-5/":http://lanyrd.com/2011/paris-devops-meetup-5/
+
 h2(#meetup-4).  4ème meetup : 4 mai 2011
 
 Le mercredi 4 mai 2011, à 19h dans les locaux de "Xebia":http://www.xebia.fr/ : 156 Boulevard Haussmann dans le 8ème (Immeuble A – 7e étage).
