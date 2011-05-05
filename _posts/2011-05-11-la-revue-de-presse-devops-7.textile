@@ -5,6 +5,9 @@ published: false
 categories: [devops, revue-presse]
 ---
 
+* http://www.surveymonkey.com/s/7RDCFVX
+* http://www.devco.net/archives/2011/05/04/monitor_framework_minimal_configuration.php
+* http://www.threedrunkensysadsonthe.net/2011/05/a-new-hope/
 * http://www.agileweboperations.com/prerequisites-for-continuous-deployment
 * http://www.dzone.com/links/r/devops_why_silos_suck_and_how_to_break_them.html
 * http://agileanddone.blogspot.com/2011/04/how-to-realize-continuous-delivery.html
