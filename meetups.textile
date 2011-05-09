@@ -3,20 +3,24 @@ layout: page
 title: Les meetups
 ---
 
-L'un des principaux objectifs de _Paris DevOps_ est d'organiser des meetups, sous forme d'open-spaces (discussions en petit groupes) ou de présentations plus formelles, avec toujours un accent sur les retours d'expérience.
+L'un des principaux objectifs de _Paris DevOps_ est d'organiser des *meetups*, sous forme d'open-spaces (discussions en petit groupes) ou de présentations plus formelles, avec toujours un accent sur les *retours d'expérience*.
 Le rythme est environ un meetup tous les mois ou tous les 2 mois, habituellement le mercredi vers 19h. Voir la page sur la "communauté":/communaute.html pour être informé des meetups.
 Vous pouvez vous abonner au calendrier : via "Google Calendar":https://www.google.com/calendar/render?cid=https://www.google.com/calendar/ical/parisdevops%40gmail.com/public/basic.ics ou "au format iCal":https://www.google.com/calendar/ical/parisdevops%40gmail.com/public/basic.ics.
+Les inscriptions se font sur "Lanyrd":http://lanyrd.com/topics/parisdevops/, via votre compte "Twitter":http://twitter.com/. Si vous n'avez pas de compte twitter, vous pouvez vous inscrire par mail sur la "mailing-list":/communaute.html.
 
 Voilà la liste des meetups passés et à venir :
 
 
 h2(#meetup-5).  5ème meetup : 15 juin 2011
 
-Le mercredi 15 juin 2011, à 19h dans les locaux de Valtech : 103, rue de Grenelle, Paris 7ième.
+Le mercredi 15 juin 2011, à 19h dans les locaux de "Valtech":http://www.valtech.fr/ : 103 rue de Grenelle dans le 7ème.
 
 *Sujet* : en cours de discussion sur la "mailing-list":/communaute.html - n'hésitez pas à participer !
 
 *Inscriptions* : "http://lanyrd.com/2011/paris-devops-meetup-5/":http://lanyrd.com/2011/paris-devops-meetup-5/
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2011/05/09/prochain-meetup-le-mercredi-15-juin.html
 
 h2(#meetup-4).  4ème meetup : 4 mai 2011
 
