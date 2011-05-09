@@ -12,7 +12,7 @@ Voilà la liste des meetups passés et à venir :
 
 h2(#meetup-5).  5ème meetup : 15 juin 2011
 
-Le mercredi 15 juin 2011, à partir de 19h chez Valtech au 103, rue de Grenelle, Paris 7ième.
+Le mercredi 15 juin 2011, à 19h dans les locaux de Valtech : 103, rue de Grenelle, Paris 7ième.
 
 *Sujet* : en cours de discussion sur la "mailing-list":/communaute.html - n'hésitez pas à participer !
 
