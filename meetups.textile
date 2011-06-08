@@ -33,8 +33,8 @@ Le mercredi 4 mai 2011, à 19h dans les locaux de "Xebia":http://www.xebia.fr/ :
 <a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=NGk2cDBhaXI4bTFtaHVrbDY2c3NqYWl2OWsgcGFyaXNkZXZvcHNAbQ&tmsrc=parisdevops%40gmail.com"><img border="0" src="http://www.google.com/calendar/images/ext/gc_button1_fr.gif"></a> Ajouter dans votre agenda Google
 
 *Sujet* :
-* Retour d'expérience sur un gros projet agile distribué (100 personnes, 10 équipes, 4 pays) orienté culture DevOps, process... et (un peu ;) outils.
-* Monitoring dans un cadre devops : infrastructure, services, business, trend monitoring, alert monitoring, dashboards, wallboards, etc.
+* +Retour d'expérience+ sur un gros projet agile distribué (100 personnes, 10 équipes, 4 pays) orienté culture DevOps, process... et (un peu ;) outils, par Rudy et Gabriel. "Slides":http://www.slideshare.net/rkrol/retour-dexprience-devops
+* Discussions libres autour des pratiques devops.
 
 *Inscriptions* : "http://lanyrd.com/2011/paris-devops-meetup-4/":http://lanyrd.com/2011/paris-devops-meetup-4/
 
