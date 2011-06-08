@@ -15,6 +15,8 @@ h2(#meetup-5).  5ème meetup : 15 juin 2011
 
 Le mercredi 15 juin 2011, à 19h dans les locaux de "Valtech":http://www.valtech.fr/ : 103 rue de Grenelle dans le 7ème.
 
+<a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=N3AyajhoM2VsMzhibmdrZWdqNmY4a3NtYmsgcGFyaXNkZXZvcHNAbQ&tmsrc=parisdevops%40gmail.com"><img border="0" src="http://www.google.com/calendar/images/ext/gc_button1_fr.gif"></a> Ajouter dans votre agenda Google
+
 *Sujet* : en cours de discussion sur la "mailing-list":/communaute.html - n'hésitez pas à participer !
 
 *Inscriptions* : "http://lanyrd.com/2011/paris-devops-meetup-5/":http://lanyrd.com/2011/paris-devops-meetup-5/
@@ -25,6 +27,8 @@ Le mercredi 15 juin 2011, à 19h dans les locaux de "Valtech":http://www.valtech
 h2(#meetup-4).  4ème meetup : 4 mai 2011
 
 Le mercredi 4 mai 2011, à 19h dans les locaux de "Xebia":http://www.xebia.fr/ : 156 Boulevard Haussmann dans le 8ème (Immeuble A – 7e étage).
+
+<a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=NGk2cDBhaXI4bTFtaHVrbDY2c3NqYWl2OWsgcGFyaXNkZXZvcHNAbQ&tmsrc=parisdevops%40gmail.com"><img border="0" src="http://www.google.com/calendar/images/ext/gc_button1_fr.gif"></a> Ajouter dans votre agenda Google
 
 *Sujet* :
 * Retour d'expérience sur un gros projet agile distribué (100 personnes, 10 équipes, 4 pays) orienté culture DevOps, process... et (un peu ;) outils.
@@ -39,6 +43,8 @@ Le mercredi 4 mai 2011, à 19h dans les locaux de "Xebia":http://www.xebia.fr/ :
 h2(#meetup-3).  3ème meetup : 16 mars 2011
 
 Le mercredi 16 mars 2011, à 19h dans les locaux de "Octo Technology":http://www.octo.com/ : 50 avenue des Champs Elysées au 5ème étage (métro ligne 1 station Franklin Roosvelt)
+
+<a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=MWRqM2hnbWY2Zzk1OTNiZTQxdjNwYWMzZXMgcGFyaXNkZXZvcHNAbQ&tmsrc=parisdevops%40gmail.com"><img border="0" src="http://www.google.com/calendar/images/ext/gc_button1_fr.gif"></a> Ajouter dans votre agenda Google
 
 *Sujet* : présentations :
 * +RunDeck+ par Bruno et Vincent. "Slides":http://www.slideshare.net/asyd/rundeck et "VM VirtualBox utilisée pour la démo":http://archives.sysadmin-fr.org/talks/rundeck/
@@ -57,6 +63,8 @@ h2(#meetup-2).  2ème meetup : 12 janvier 2011
 
 Le mercredi 12 janvier 2011, à 19h30 dans les locaux de "Theodo":http://www.theodo.fr/ : 14, rue Notre-Dame-des-Victoires au 1er étage (75002)
 
+<a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=ZW0xamtrNzE1cDdpaXRzMWVsa2tmamZrdDggcGFyaXNkZXZvcHNAbQ&tmsrc=parisdevops%40gmail.com"><img border="0" src="http://www.google.com/calendar/images/ext/gc_button1_fr.gif"></a> Ajouter dans votre agenda Google
+
 *Sujet* : open-spaces sur les thèmes suivants : Puppet, Capistrano/Fabric, Continuous Delivery, etc.
 
 *Inscriptions* : "http://lanyrd.com/2011/paris-devops-meetup-2/":http://lanyrd.com/2011/paris-devops-meetup-2/
@@ -68,6 +76,8 @@ Le mercredi 12 janvier 2011, à 19h30 dans les locaux de "Theodo":http://www.the
 h2(#meetup-1).  1er meetup : 1er décembre 2010
 
 Le mercredi 1er décembre 2010, à 19h30 dans les locaux de "Theodo":http://www.theodo.fr/ : 14, rue Notre-Dame-des-Victoires au 1er étage (75002)
+
+<a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=dnQ4ZW1mZ2RlbzEwYmxhbTc2aGYxZzJ0cjQgcGFyaXNkZXZvcHNAbQ&tmsrc=parisdevops%40gmail.com"><img border="0" src="http://www.google.com/calendar/images/ext/gc_button1_fr.gif"></a> Ajouter dans votre agenda Google
 
 *Sujet* : introduction et open-spaces sur les thèmes suivants : Puppet, Chef, déploiement, gestion de configuration, etc.
 
