@@ -25,6 +25,7 @@ Le mercredi 15 juin 2011, à 19h dans les locaux de "Valtech":http://www.valtech
 
 *Ils en parlent sur le web* :
 * "Annonce sur le blog de _Paris DevOps_":/blog/2011/05/09/prochain-meetup-le-mercredi-15-juin.html
+* "Annonce sur le blog de Valtech":http://blog.valtech.fr/wordpress/2011/06/14/rencontre-devops-le-15-juin/
 
 h2(#meetup-4).  4ème meetup : 4 mai 2011
 
