@@ -24,8 +24,9 @@ Le mercredi 15 juin 2011, à 19h dans les locaux de "Valtech":http://www.valtech
 <a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=N3AyajhoM2VsMzhibmdrZWdqNmY4a3NtYmsgcGFyaXNkZXZvcHNAbQ&tmsrc=parisdevops%40gmail.com"><img border="0" src="http://www.google.com/calendar/images/ext/gc_button1_fr.gif"></a> Ajouter dans votre agenda Google
 
 *Sujet* :
+* JMX et monitoring avec JMX, outils, etc
 * "FeatureToggle":http://martinfowler.com/bliki/FeatureToggle.html : pourquoi, implémentation, démo, etc
-* Monitoring dans un cadre devops : infrastructure, services, business, trend monitoring, alert monitoring, dashboards, wallboards, etc.
+* "Les slides de la soirée":http://www.slideshare.net/cyrille.leclerc/paris-devops-monitoring-and-feature-toggle-pattern-with-jmx
 
 *Inscriptions* : "http://lanyrd.com/2011/paris-devops-meetup-5/":http://lanyrd.com/2011/paris-devops-meetup-5/
 
