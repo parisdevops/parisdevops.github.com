@@ -11,6 +11,12 @@ Les inscriptions se font sur "Lanyrd":http://lanyrd.com/topics/parisdevops/, via
 Voilà la liste des meetups passés et à venir :
 
 
+h2(#meetup-6).  6ème meetup : septembre 2011
+
+Date et lieu à préciser.
+
+Sujet à discuter sur la "mailing list":/communaute.html.
+
 h2(#meetup-5).  5ème meetup : 15 juin 2011
 
 Le mercredi 15 juin 2011, à 19h dans les locaux de "Valtech":http://www.valtech.fr/ : 103 rue de Grenelle dans le 7ème.
