@@ -11,11 +11,19 @@ Les inscriptions se font sur "Lanyrd":http://lanyrd.com/topics/parisdevops/, via
 Voilà la liste des meetups passés et à venir :
 
 
-h2(#meetup-6).  6ème meetup : septembre 2011
+h2(#meetup-6).  6ème meetup : 7 septembre 2011
 
-Date et lieu à préciser.
+Le mercredi 7 septembre 2011, à 19h dans les locaux de "Xebia":http://www.xebia.fr/ : 156 Boulevard Haussmann dans le 8ème (Immeuble A – 7e étage).
 
-Sujet à discuter sur la "mailing list":/communaute.html.
+<a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=ZTFuam5ubG9mOHFtaDI5YWxrcmlwcnU0b2MgcGFyaXNkZXZvcHNAbQ&tmsrc=parisdevops%40gmail.com"><img border="0" src="http://www.google.com/calendar/images/ext/gc_button1_fr.gif"></a> Ajouter dans votre agenda Google
+
+*Sujet* :
+* CMDB (avec iTop), où l'art de définir (et représenter) tous les liens entre métier / application / briques techniques
+
+*Inscriptions* : "http://lanyrd.com/2011/paris-devops-meetup-6/":http://lanyrd.com/2011/paris-devops-meetup-6/
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2011/08/19/prochain-meetup-le-mercredi-7-septembre.html
 
 h2(#meetup-5).  5ème meetup : 15 juin 2011
 
