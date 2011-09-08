@@ -49,8 +49,8 @@ new TWTR.Widget({
 
 h2(#meetups).  Les meetups
 
-* Prochain meetup : "mercredi 7 septembre 2011":/meetups.html#meetup-6
-* Dernier meetup : 15 juin 2011.
+* Prochain meetup : "mercredi 5 octobre 2011":/meetups.html#meetup-7
+* Dernier meetup : 7 septembre 2011.
 
 "Voir tous les meetups":/meetups.html
 

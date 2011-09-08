@@ -11,6 +11,10 @@ Les inscriptions se font sur "Lanyrd":http://lanyrd.com/topics/parisdevops/, via
 Voilà la liste des meetups passés et à venir :
 
 
+h2(#meetup-7).  7ème meetup : 5 octobre 2011
+
+Le mercredi 5 octobre 2011. Heure, lieu et contenu à préciser sous peu...
+
 h2(#meetup-6).  6ème meetup : 7 septembre 2011
 
 Le mercredi 7 septembre 2011, à 19h dans les locaux de "Xebia":http://www.xebia.fr/ : 156 Boulevard Haussmann dans le 8ème (Immeuble A – 7e étage).
@@ -19,6 +23,7 @@ Le mercredi 7 septembre 2011, à 19h dans les locaux de "Xebia":http://www.xebia
 
 *Sujet* :
 * CMDB (avec iTop), où l'art de définir (et représenter) tous les liens entre métier / application / briques techniques
+* "Les slides de la soirée":http://www.slideshare.net/asyd/itop-9176448
 
 *Inscriptions* : "http://lanyrd.com/2011/paris-devops-meetup-6/":http://lanyrd.com/2011/paris-devops-meetup-6/
 
