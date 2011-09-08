@@ -13,7 +13,14 @@ Voilà la liste des meetups passés et à venir :
 
 h2(#meetup-7).  7ème meetup : 5 octobre 2011
 
-Le mercredi 5 octobre 2011. Heure, lieu et contenu à préciser sous peu...
+Le mercredi 5 octobre 2011, à 19h dans les locaux de "Zenika":http://www.zenika.com/ : 51 rue Le Peletier dans le 9ème.
+
+<a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=M2VhM2Y1dmkwYTkxYjd0dTh1N2lkZm9uZTggcGFyaXNkZXZvcHNAbQ&tmsrc=parisdevops%40gmail.com"><img border="0" src="http://www.google.com/calendar/images/ext/gc_button1_fr.gif"></a> Ajouter dans votre agenda Google
+
+*Sujet* :
+* +Cloud+ (plus de détails à venir)
+
+*Inscriptions* : "http://lanyrd.com/2011/paris-devops-meetup-7/":http://lanyrd.com/2011/paris-devops-meetup-7/
 
 h2(#meetup-6).  6ème meetup : 7 septembre 2011
 
