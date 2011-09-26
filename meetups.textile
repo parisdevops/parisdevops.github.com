@@ -18,9 +18,12 @@ Le mercredi 5 octobre 2011, à 19h dans les locaux de "Zenika":http://www.zenika
 <a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=M2VhM2Y1dmkwYTkxYjd0dTh1N2lkZm9uZTggcGFyaXNkZXZvcHNAbQ&tmsrc=parisdevops%40gmail.com"><img border="0" src="http://www.google.com/calendar/images/ext/gc_button1_fr.gif"></a> Ajouter dans votre agenda Google
 
 *Sujet* :
-* +Cloud+ (plus de détails à venir)
+* +Cloud+ : les nouveaux patterns et les problématiques que le cloud nous amène, suivi d'un retour d'expérience sur différentes solutions de cloud.
 
 *Inscriptions* : "http://lanyrd.com/2011/paris-devops-meetup-7/":http://lanyrd.com/2011/paris-devops-meetup-7/
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2011/09/26/prochain-meetup-le-mercredi-5-octobre.html
 
 h2(#meetup-6).  6ème meetup : 7 septembre 2011
 
