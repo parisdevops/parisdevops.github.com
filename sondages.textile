@@ -10,9 +10,9 @@ h2(#meetups).  Propositions de thèmes pour les prochains meetups
 
 "http://www.google.com/moderator/#16/e=be636":http://www.google.com/moderator/#16/e=be636
 
-<div id="moderator-embed-target"></div>
+<div id="moderator-embed-target-meetups"></div>
 <script type="text/javascript">
-MODERATOR_embed("ttps://www.google.com/moderator/#16/e=be636", "moderator-embed-target");
+MODERATOR_embed("ttps://www.google.com/moderator/#16/e=be636", "moderator-embed-target-meetups");
 </script>
 
 
@@ -20,8 +20,8 @@ h2(#features).  Quelles fonctions devrait avoir le site devops paris ?
 
 "http://www.google.com/moderator/#16/e=670ed":http://www.google.com/moderator/#16/e=670ed
 
-<div id="moderator-embed-target"></div>
+<div id="moderator-embed-target-features"></div>
 <script type="text/javascript">
-MODERATOR_embed("ttps://www.google.com/moderator/#16/e=670ed", "moderator-embed-target");
+MODERATOR_embed("ttps://www.google.com/moderator/#16/e=670ed", "moderator-embed-target-features");
 </script>
 
