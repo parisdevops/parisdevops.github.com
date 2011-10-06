@@ -23,8 +23,8 @@ Le mercredi 5 octobre 2011, à 19h dans les locaux de "Zenika":http://www.zenika
 
 *Sujet* :
 * +Cloud+ : les nouveaux patterns et les problématiques que le cloud nous amène.
-* "Les slides de la soirée (pdf)":/download/meetup-7-cloud.pdf
-* "Les slides de la soirée (html)":/download/meetup-7-cloud.html
+* "Les slides de la soirée au format pdf":/download/meetup-7-cloud.pdf
+* "Les slides de la soirée au format html":/download/meetup-7-cloud.html
 
 *Inscriptions* : "http://lanyrd.com/2011/paris-devops-meetup-7/":http://lanyrd.com/2011/paris-devops-meetup-7/
 
