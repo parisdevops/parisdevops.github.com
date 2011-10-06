@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta http-equiv="content-type" content="text/html;charset=utf-8"> 
+   <title>Untitled Slide Show</title>
+
+<meta name="generator" content="- generator not found -">
+<meta name="author"    content="- author not found -" >
+
+<!-- S6 style sheet links -->
+<link rel="stylesheet" href="cloud.css" media="projection" id="styleProjection">
+<link rel="stylesheet" href="s6/screen.css"         media="screen"     id="styleScreen">
+<link rel="stylesheet" href="s6/print.css"          media="print">
+
+<!-- S6 JS -->
+<script src="s6/jquery.js"></script>
+<script src="s6/jquery.slideshow.js"></script>
+<script>
+  $(document).ready( function() {
+    Slideshow.init();
+  } );
+
+  
+</script>
+
+<!-- Better Browser Banner for Microsoft Internet Explorer (IE) -->
+<!--[if IE]>
+<script src="s6/jquery.microsoft.js"></script>
+<![endif]-->
+
+
+
+</head>
+<body>
+
+<div class="layout"> 
+  <div id="header"></div>
+  <div id="footer">
+    <h1></h1>
+    <h2></h2>
+  </div>
+</div>
+
+<div class="presentation">
+   
+<div class='slide '>
+<h1 class="center">Why is devops tightly coupled with the cloud</h1></div>
+<div class='slide '>
+<h1>What is the cloud ?</h1><!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>what is a SaaS ?</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>what is a IaaS ?</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>what is a PaaS ?</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>We are mostly going to talk about IaaS</li>
+</ul>
+</div>
+<!-- end step -->
+
+
+</div>
+<div class='slide '>
+<h1>So how is IaaS born ?</h1><!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Iaas was born with virtualization</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>But virtualization is not new !</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>in 1972 IBM invented hypervisors (VM/CPS 370)
+	<ul>
+		<li>This was the birth of virtualization</li>
+	</ul></li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>in 1998 VMWare was created</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Amazon EC2 went in beta in 2006, production started late 2007</li>
+</ul>
+</div>
+<!-- end step -->
+
+
+</div>
+<div class='slide '>
+<h1>A focus on AWS</h1><!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Virtualization API: access to computing power by an API</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>And a bit more !</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>EC2 is a server factory !</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>AWS is not only EC2
+	<ul>
+		<li>You probably already heard about S3</li>
+		<li>Other services developped over time (load balancers, databases, queues, caches, dns, mailing &#8230;)</li>
+	</ul></li>
+</ul>
+</div>
+<!-- end step -->
+
+
+</div>
+<div class='slide '>
+<h1>So what&#8217;s new ?</h1></div>
+<div class='slide '>
+<h1>What&#8217;s new: Technically</h1><!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>network unification (in amazon only one IP per hosts, no more juggling between IP addresses)</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>no more hardware to manage (but someone is still doing it !)</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>OS configuration streamlined, we have now identified the bare minimal</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Easier focus on delivering applications</li>
+</ul>
+</div>
+<!-- end step -->
+
+
+</div>
+<div class='slide '>
+<h1>What&#8217;s new: Scaling</h1><!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Can scale &#8230;</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Scaling is also hardware (a rack is limited to 42U)</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Scale up: unplug ip and disk, get more horse power, plug back ip and disk, running again !</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>But Scale out is better: horizontal scaling (not always easy)</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>And can also scale down (both ways we used to scale up)</li>
+</ul>
+</div>
+<!-- end step -->
+
+
+</div>
+<div class='slide '>
+<h1>What&#8217;s new: Scaling (continued)</h1><!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Scale down, you&#8217;re thinking about long term</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>With previous concepts, but a bit further: you can scale up and down everydays</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Jumping from capacity planning (predict money spendings) to capacity optimization (predict money savings)</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Traffic spikes in years for your buisness (it&#8217;s christmas !)</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>This is a new way of thinking, it&#8217;s a new culture ! (&#8220;don&#8217;t repair, replace&#8221;, &#8220;don&#8217;t update, replace&#8221;)</li>
+</ul>
+</div>
+<!-- end step -->
+
+
+</div>
+<div class='slide '>
+<h1>What&#8217;s new: Availabilty</h1><!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>I can launch now, a server in asia, euope, and america, and have them all ready in 5 five minute</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>New deployement patterns with less (or no) downtime</li>
+</ul>
+</div>
+<!-- end step -->
+
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Some services are already highly available (S3, ELB)</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>But don&#8217;t lie: HA is also harder with no network control</li>
+</ul>
+</div>
+<!-- end step -->
+
+
+</div>
+<div class='slide '>
+<h1>What&#8217;s new: Organization</h1><!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>This type of scaling and availabilty saves you some $ (compared to traditional methods)</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Dev can spawn environements on demand, don&#8217;t wait for your IT service !</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>One infrastructure per project, disconnected from others infrastructures, better focus</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Company can know how much any project costs, for integration, for prod</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Cloud is cool for trainings !</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>A place to collaborate with customers</li>
+</ul>
+</div>
+<!-- end step -->
+
+
+</div>
+<div class='slide '>
+<h1>But cloud is not only happiness</h1><!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>No multicast</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>I/O is expensive</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>No adding of network interface</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Beware of vendor lock-in</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Poor customization</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Unpredictible network performance</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>HA is also harder</li>
+</ul>
+</div>
+<!-- end step -->
+
+
+</div>
+<div class='slide '>
+<h1>Then things continued to change</h1><!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>new services (blitz.io, contiunous.io, saucelabs, cloudbees, loglly, pagerduty)
+	<ul>
+		<li>they were able to launch their service thanks to the cloud</li>
+		<li>they help you build your own service, with the cloud, for the cloud</li>
+	</ul></li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>more and more services</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>lot of new projects (more generic, horizontally scalable, new filesystems)</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>PaaS birth</li>
+</ul>
+</div>
+<!-- end step -->
+
+
+</div>
+<div class='slide '>
+<h1>New Challenges</h1><!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Infrastructure aware applications</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Roaming data stores and databases</li>
+</ul>
+</div>
+<!-- end step -->
+
+<!-- begin step {} -->
+<div class='step' markdown='block'>
+
+<ul>
+	<li>Horizontal scaling needs to abstract state, do stateless where ever you can</li>
+</ul>
+</div>
+<!-- end step -->
+
+
+</div>
+<div class='slide '>
+<h1>Thanks ! Questions ?</h1></div>
+
+
+</div><!-- presentation -->
+</body>
+</html>
