@@ -6,14 +6,24 @@ title: Les meetups
 L'un des principaux objectifs de _Paris DevOps_ est d'organiser des *meetups*, sous forme d'open-spaces (discussions en petit groupes) ou de présentations plus formelles, avec toujours un accent sur les *retours d'expérience*.
 Le rythme est environ un meetup tous les mois ou tous les 2 mois, habituellement le mercredi vers 19h. Voir la page sur la "communauté":/communaute.html pour être informé des meetups.
 Vous pouvez vous abonner au calendrier : via "Google Calendar":https://www.google.com/calendar/render?cid=https://www.google.com/calendar/ical/parisdevops%40gmail.com/public/basic.ics ou "au format iCal":https://www.google.com/calendar/ical/parisdevops%40gmail.com/public/basic.ics.
-Les inscriptions se font sur "Lanyrd":http://lanyrd.com/topics/parisdevops/, via votre compte "Twitter":http://twitter.com/. Si vous n'avez pas de compte twitter, vous pouvez vous inscrire par mail sur la "mailing-list":/communaute.html.
+Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://parisdevops.eventbrite.com/.
 
 Voilà la liste des meetups passés et à venir :
 
 
-h2(#meetup-8).  8ème meetup : 9 novembre 2011
+h2(#meetup-8).  8ème meetup : 7 décembre 2011
 
-Le mercredi 9 novembre 2011. Lieu et sujet à confirmer.
+Le mercredi 7 décembre 2011, à 19h dans les locaux de "Octo Technology":http://www.octo.com/ : 50 avenue des Champs Elysées au 5ème étage (métro ligne 1 station Franklin Roosvelt)
+
+<a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=MTNjbGpkbG92NHRucDdjYm1zbGFzczJzM2sgcGFyaXNkZXZvcHNAbQ&tmsrc=parisdevops%40gmail.com"><img border="0" src="http://www.google.com/calendar/images/ext/gc_button1_fr.gif"></a> Ajouter dans votre agenda Google
+
+*Sujet* :
+* +Cloud+ : cloud privé et retours d'expérience sur le sujet, avec VMware et avec un hébergeur traditionnel : leur niveau de maturité, leur performance, les services offerts, le modèle de pricing et pourquoi ces choix dans le business des clients (SLA / visibilité sur les aspects réseau).
+
+*Inscriptions* : "http://parisdevops-8.eventbrite.com/":http://parisdevops-8.eventbrite.com/
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2011/11/10/prochain-meetup-le-mercredi-7-decembre.html
 
 h2(#meetup-7).  7ème meetup : 5 octobre 2011
 
