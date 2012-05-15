@@ -14,6 +14,11 @@ Mini Howto for website maintainers (people who are member of the parisdevops org
 - Normal pages just end in .textile (and are converted to .html)
 - Blog posts and located in the "_posts" directory, and prefixed with the date (format YYYY-MM-DD)
 
+Add a meetup 
+- add a file in _posts, this page will show up under "Blog - Thème | meetup" 
+- update meetups.textile and add a new block for the meetup. Ensure that you've changed the meetup id (next to the h2 title)
+- update index.textile for next/previous meetup
+
 If you want to install Jekyll locally (to avoid editing the website "blindly") :
 - gem install jekyll -v JEKYLL_VERSION (you should use the same version as GitHub use. See http://pages.github.com for the right version. As of writing this, it is 0.10.0)
 - go to the directory where you cloned the repository, and run "jekyll --server --auto" : Jekyll will run in server mode (port 4000) and auto-reload on each file modification
