@@ -26,6 +26,22 @@ Le jeudi 7 juin 2012, à 19h dans les locaux de "Valtech":http://valtech.fr/fr/i
 *Ils en parlent sur le web* :
 * "Annonce sur le blog de _Paris DevOps_":/blog/2012/05/15/prochain-meetup-le-jeudi-7-juin.html
 
+h2(#meetup-9).  9ème meetup : 7 juin 2012
+
+Le jeudi 7 juin 2012, à 19h dans les locaux de "Valtech":http://valtech.fr/fr/index.html (103, rue de Grenelle, Paris 7ième).
+
+<a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=MTNjbGpkbG92NHRucDdjYm1zbGFzczJzM2sgcGFyaXNkZXZvcHNAbQ&tmsrc=parisdevops%40gmail.com"><img border="0" src="http://www.google.com/calendar/images/ext/gc_button1_fr.gif"></a> Ajouter dans votre agenda Google
+
+*Sujet* :
+* Devops illustré : la jungle de la configuration d'une application - Gilles Di Guglielmo et Dimitri Baeli - 30 mn 
+* Continuous deployement : Rackspace, Chef et capistrano en action - Stéphane RIOS et Bertrand Paquet - 30 mn 
+* Discussion sur les prochaines sessions - 1 h
+
+*Inscriptions* : "http://parisdevops-9.eventbrite.com/":http://parisdevops-9.eventbrite.com/
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2011/09/26/prochain-meetup-le-mercredi-5-octobre.html
+
 
 h2(#meetup-8).  8ème meetup : 7 décembre 2011
 
@@ -39,7 +55,7 @@ Le mercredi 7 décembre 2011, à 19h dans les locaux de "Octo Technology":http:/
 *Inscriptions* : "http://parisdevops-8.eventbrite.com/":http://parisdevops-8.eventbrite.com/
 
 *Ils en parlent sur le web* :
-* "Annonce sur le blog de _Paris DevOps_":/blog/2011/11/10/prochain-meetup-le-mercredi-7-decembre.html
+* "Annonce sur le blog de _Paris DevOps_":/blog/2012/05/15/prochain-meetup-le-jeudi-7-juin.html
 
 h2(#meetup-7).  7ème meetup : 5 octobre 2011
 
