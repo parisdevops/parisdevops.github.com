@@ -10,6 +10,18 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-11).  11ème meetup : 19 février 2013
+
+Le mardi 19 février 2013, à 19h30 dans les nouveaux locaux de "Theodo":http://www.theodo.fr (48, boulevard de Batignolles, Paris 17ième).
+
+*Sujet* :
+Ce meetup sera entierement consacré à la tenue d'un open space sur les sujets devops.
+
+*Inscriptions* : "http://parisdevops-11.eventbrite.com/":http://parisdevops-11.eventbrite.com/
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2013/02/12/prochain-meetup-le-mardi-19-fevrier.html
+
 h2(#meetup-9).  9ème meetup : 7 juin 2012
 
 Le jeudi 7 juin 2012, à 19h dans les locaux de "Valtech":http://valtech.fr/fr/index.html (103, rue de Grenelle, Paris 7ième).
