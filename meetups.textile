@@ -10,6 +10,18 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-12).  12ème meetup : 5 mars 2013
+
+Le mardi 5 mars 2013, à 19h00 dans les locaux du *centre de formation* d' "AlterWay":http://www.alterway.fr/notre-centre-de-formation (105 rue La Fayette, Paris 10eme)
+
+*Sujet* :
+Ce meetup sera entierement consacré à la tenue d'un open space sur les sujets devops.
+
+*Inscriptions* : "http://parisdevops-12.eventbrite.com/":http://parisdevops-12.eventbrite.com/
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2013/02/22/prochain-meetup-le-mardi-5-mars.html
+
 h2(#meetup-11).  11ème meetup : 19 février 2013
 
 Le mardi 19 février 2013, à 19h30 dans les nouveaux locaux de "Theodo":http://www.theodo.fr (48, boulevard de Batignolles, Paris 17ième).
@@ -21,6 +33,7 @@ Ce meetup sera entierement consacré à la tenue d'un open space sur les sujets 
 
 *Ils en parlent sur le web* :
 * "Annonce sur le blog de _Paris DevOps_":/blog/2013/02/12/prochain-meetup-le-mardi-19-fevrier.html
+* "Compte rendu sur la mailing-list":https://groups.google.com/d/msg/paris-devops/ABbIX7-9V6I/_8_JGBenjGIJ
 
 h2(#meetup-9).  9ème meetup : 7 juin 2012
 
