@@ -1,0 +1,21 @@
+---
+layout: post
+title: Prochain meetup le mardi 5 mars
+published: true
+categories: [meetup]
+---
+
+Comme annoncé lors de la présentation du reboot, nous continuons a organiser des meetups tous les premiers mardi de chaque mois. 
+
+En conséquence le prochain meetup aura lieu le *5 mars 2013* a *19h00* dans les locaux du *centre de formation* de notre sponsor du mois: la société "AlterWay":http://www.alterway.fr/notre-centre-de-formation (105 rue La Fayette, Paris 10eme)
+
+A priori nous n'organiserons pas de présentations pour ce meetup (sauf si un volontaire se désigne, merci de poster les candidatures sur la "mailing-list":https://groups.google.com/forum/?fromgroups#!forum/paris-devops), mais seulement un open space (pour les gens peu familiers des open spaces, voici un lien tres utile pour comprendre les "Open Spaces":https://fr.wikipedia.org/wiki/M%C3%A9thodologie_open_space).
+
+Vous pouvez dors et déja préparer vos discussions en postant sur la mailing-list "paris-devops@googlegroups.com":https://groups.google.com/forum/?fromgroups#!forum/paris-devops
+
+Les inscriptions se font donc sur "http://parisdevops-12.eventbrite.com/":http://parisdevops-12.eventbrite.com/
+
+Pour des raisons de places disponibles, ce meetup est limité à 40 personnes, et la réservation est obligatoire :)
+
+RDV le 5 mars !
+
