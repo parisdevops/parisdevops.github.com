@@ -30,5 +30,5 @@ Abonnez-vous au compte "@parisdevops":http://twitter.com/parisdevops sur "Twitte
 
 h2(#irc).  IRC
 
-Le channel officiel du groupe est *##parisdevops* sur *freenode*.
+Le channel officiel du groupe est *#parisdevops* sur *freenode*.
 
