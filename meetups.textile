@@ -10,6 +10,18 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-13).  13ème meetup : 2 avril 2013
+
+Le mardi 2 avril 2013, à 19h00 dans les locaux du de "Zenika":http://www.zenika.com/Contact.html (10 rue de Milan 75009 Paris.)
+
+*Sujet* :
+Ce meetup contiendra une présentation et un open-space.
+
+*Inscriptions* : "http://parisdevops-12.eventbrite.com/":http://parisdevops-13.eventbrite.com/
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2013/03/18/prochain-meetup-le-mardi-2-avril.html
+
 h2(#meetup-12).  12ème meetup : 5 mars 2013
 
 Le mardi 5 mars 2013, à 19h00 dans les locaux du *centre de formation* d' "AlterWay":http://www.alterway.fr/notre-centre-de-formation (105 rue La Fayette, Paris 10eme)
