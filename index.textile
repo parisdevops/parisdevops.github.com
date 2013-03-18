@@ -47,10 +47,12 @@ new TWTR.Widget({
   <li><a href="/blog">Voir tous les billets</a></li>
 </ul>
 
+
 h2(#meetups).  Les meetups
 
-* Prochain meetup : "mardi 5 mars 2012":/meetups.html#meetup-12
-* Dernier meetup : "mardi 19 février 2013":/meetups.html#meetup-11.
+* Prochain meetup : "mardi 2 avril 2013":/meetups.html#meetup-13
+* Précédent meetup : "mardi 5 mars 2013":/meetups.html#meetup-12
+* Premier meetup de 2013 : "mardi 19 février 2013":/meetups.html#meetup-11.
 
 "Voir tous les meetups":/meetups.html
 
