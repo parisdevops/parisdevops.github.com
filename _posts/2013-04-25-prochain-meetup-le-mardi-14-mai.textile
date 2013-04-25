@@ -1,0 +1,23 @@
+---
+layout: post
+title: Prochain meetup le mardi 14 mai !
+published: true
+categories: [meetup]
+---
+
+Pour nous remettre de nos émotions des deux jours intenses de devopsdays Paris, je vous propose de vous reprendre une nouvelle dose de DevOps avec un nouveau meetup.
+
+Donc ce dernier aura lieu le *14 mai 2013* a *19h30* dans les locaux du de notre sponsor du mois: la société "Sfeir":http://www.sfeir.com/contact/ (192 avenue Charles de Gaulle 92200 Neuilly sur Seine. Métro Ligne 1: Pont de Neuilly)
+
+A priori pas de présentation cette fois-ci, nous reviendrons donc aux basiques avec notre habituel (et néanmoins débridé) open-space. Si vous ne savez pas ce qu'est un open-space je ne peux que vous encourager a lire "la page wikipedia des Open Spaces":https://fr.wikipedia.org/wiki/M%C3%A9thodologie_open_space
+
+Nous pourrons `a cette occasion débriefer les devopsdays Paris, parler de ce qui nous passionne en ce moment, bref échanger.
+
+Vous pouvez dors et déja préparer vos discussions en postant sur la mailing-list "paris-devops@googlegroups.com":https://groups.google.com/forum/?fromgroups#!forum/paris-devops
+
+Les inscriptions se font donc sur "l'eventbrite des paris devops meetup":http://www.eventbrite.com/event/6434450615/
+
+Pour des raisons d'organisation, ce meetup est limité à 40 personnes, et la réservation est obligatoire :)
+
+RDV le 14 mai !
+
