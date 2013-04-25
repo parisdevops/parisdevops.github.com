@@ -4,11 +4,25 @@ title: Les meetups
 ---
 
 L'un des principaux objectifs de _Paris DevOps_ est d'organiser des *meetups*, sous forme d'open-spaces (discussions en petit groupes) ou de présentations plus formelles, avec toujours un accent sur les *retours d'expérience*.
-Le rythme est environ un meetup tous les mois ou tous les 2 mois, habituellement le mercredi vers 19h. Voir la page sur la "communauté":/communaute.html pour être informé des meetups.
+Le rythme est environ un meetup tous les mois, habituellement le premier mardi vers 19h. Voir la page sur la "communauté":/communaute.html pour être informé des meetups.
 Vous pouvez vous abonner au calendrier : via "Google Calendar":https://www.google.com/calendar/render?cid=https://www.google.com/calendar/ical/parisdevops%40gmail.com/public/basic.ics ou "au format iCal":https://www.google.com/calendar/ical/parisdevops%40gmail.com/public/basic.ics.
 Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://parisdevops.eventbrite.com/.
 
 Voilà la liste des meetups passés et à venir :
+
+h2(#meetup-14).  14ème meetup : 14 mai 2013
+
+Le mardi 14 mai 2013, à 19h30 dans les locaux du de "Sfeir":http://www.sfeir.com/contact/ (192 avenue Charles de Gaulle 92200 Neuilly sur Seine. Métro Ligne 1: Pont de Neuilly)
+
+*Sujet* :
+Ce meetup contiendra un open-space sur les sujets DevOps
+
+*Inscriptions* : "sur notre eventbrite":http://www.eventbrite.com/event/6434450615/
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2013/04/25/prochain-meetup-le-mardi-14-mai.html
+
+
 
 h2(#meetup-13).  13ème meetup : 2 avril 2013
 
