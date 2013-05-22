@@ -47,7 +47,7 @@
             <ol class="toc">
               {% for category in site.categories %}
               {% capture category_name %}{{ category | first }}{% endcapture %}
-              <li><a href="/blog/tags.html#{{ category_name | downcase | replace(' ', '_') }}">{{ category_name }} ({{ site.categories[category_name] | size }})</a></li>
+              <li><a href="/blog/tags.html#{{ category_name | downcase | replace:' ','_' }}">{{ category_name }} ({{ site.categories[category_name] | size }})</a></li>
               {% endfor %}
             </ol>
           </li>
