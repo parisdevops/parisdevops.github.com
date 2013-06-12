@@ -10,6 +10,18 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-16).  16ème meetup : 2 juillet 2013
+
+Le mardi 2 juillet 2013, à 19h00 dans les locaux de "l'ETNA":http://etna-alternance.net/ (15 rue Maurice Grandcoing, 94200 Ivry sur Seine)
+
+*Sujet* :
+Ce meetup contiendra un open-space sur les sujets DevOps
+
+*Inscriptions* : "sur notre eventbrite":http://parisdevops-16.eventbrite.com
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2013/06/12/prochain-meetup-le-mardi-2-juillet.html
+
 h2(#meetup-15).  15ème meetup : 4 juin 2013
 
 Le mardi 4 juin 2013, à 19h00 dans les locaux de "Objet Direct":http://www.objetdirect.com/ (38 rue de Ponthieu dans le 8`eme)
@@ -21,7 +33,8 @@ Ce meetup contiendra un open-space sur les sujets DevOps
 
 *Ils en parlent sur le web* :
 * "Annonce sur le blog de _Paris DevOps_":/blog/2013/05/22/prochain-meetup-le-mardi-4-juin.html
-
+* "Compte-rendu du meetup":/blog/2013/06/10/compte-rendu-du-15eme-meetup-paris-devops.html
+* "Un article sur le blog d'Objet Direct":http://devops.objetdirect.com/?p=171
 
 h2(#meetup-14).  14ème meetup : 14 mai 2013
 
