@@ -10,6 +10,19 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-17).  17ème meetup : 3 septembre 2013
+
+Le mardi 3 septembre 2013, à 19h30 dans les locaux de "Mozilla":https://www.mozilla.org/en-US/about/contact.html (16 Bis Boulevard Montmartre, Paris 9eme)
+
+*Sujet* :
+Ce meetup contiendra un open-space sur les sujets DevOps
+
+*Inscriptions* : "sur notre eventbrite":http://parisdevops-17.eventbrite.com
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2013/08/09/prochain-meetup-le-mardi-3-septembre.html
+
+
 h2(#meetup-16).  16ème meetup : 2 juillet 2013
 
 Le mardi 2 juillet 2013, à 19h00 dans les locaux de "l'ETNA":http://etna-alternance.net/ (15 rue Maurice Grandcoing, 94200 Ivry sur Seine)
