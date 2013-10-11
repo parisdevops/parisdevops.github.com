@@ -10,6 +10,18 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-19).  19ème meetup : 5 novembre 2013
+
+Le 5 novembre 2013, à 19h30 dans les locaux de "Viadeo":http://fr.viadeo.com/fr/ (30 rue de la Victoire, Paris 9eme)
+
+*Sujet* :
+Ce meetup contiendra un open-space sur les sujets DevOps
+
+*Inscriptions* : "sur notre eventbrite":http://parisdevops-19.eventbrite.com
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2013/10/09/prochain-meetup-le-mardi-5-novembre.html
+
 h2(#meetup-18).  18ème meetup : 1er octobre 2013
 
 Le 1er octobre 2013, à 19h30 dans les locaux de "Zenexity":http://zenexity.com/ (56 rue Saint-Lazare, Paris 9eme)
