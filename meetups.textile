@@ -10,6 +10,19 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-21).  21ème meetup : 7 janvier 2013
+
+Le 7 janvier 2013, à 19h00 dans les locaux de "Xebia":http://www.xebia.fr/ (156 bd Hausmann, 75008 Paris)
+
+*Sujet* :
+Ce meetup contiendra un open-space sur les sujets DevOpsm, et une présentation.
+
+*Inscriptions* : "sur notre eventbrite":http://parisdevops-21.eventbrite.com
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2013/12/16/prochain-meetup-le-mardi-7-janvier.html
+
+
 h2(#meetup-20).  20ème meetup : 3 décembre 2013
 
 Le 3 décembre 2013, à 19h00 dans les locaux de "dotConferences":http://dotConferences.eu/ (chez 39.io: 39, rue Beauregard 75002 Paris)
