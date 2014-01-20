@@ -10,6 +10,18 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-22).  22ème meetup : 11 février 2013
+
+Le 11 février 2013, à 19h00 dans les locaux de "D2SI":http://www.d2-si.fr/ (29 bis Rue d'Astorg, 75008 Paris, Métro Saint-Augustin)
+
+*Sujet* :
+Ce meetup contiendra un open-space sur les sujets DevOpsm, et une présentation.
+
+*Inscriptions* : "sur notre eventbrite":http://parisdevops-22.eventbrite.com
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2013/12/16/prochain-meetup-le-mardi-7-janvier.html
+
 h2(#meetup-21).  21ème meetup : 7 janvier 2013
 
 Le 7 janvier 2013, à 19h00 dans les locaux de "Xebia":http://www.xebia.fr/ (156 bd Hausmann, 75008 Paris)
