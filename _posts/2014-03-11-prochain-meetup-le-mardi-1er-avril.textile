@@ -5,8 +5,7 @@ published: true
 categories: [meetup]
 ---
 
-Non, ce n'est pas un poisson d'avril. Notre prochain meetup retournant aux fatidiques premiers mardi du mois, aura lieu le *mardi 1er avril* a *19h00* dans les locaux de notre sponsor "IPPON": http://www.ippon.fr/paris (Ippon Technologie/Ippon Hosting -  43-47 avenue de la Grande Armée, 75116 Paris au 5eme étage)
-
+Non, ce n'est pas un poisson d'avril. Notre prochain meetup retournant aux fatidiques premiers mardi du mois, aura lieu le *mardi 1er avril* a *19h00* dans les locaux de notre sponsor "IPPON":http://www.ippon.fr/paris (Ippon Technologie/Ippon Hosting -  43-47 avenue de la Grande Armée, 75116 Paris au 5eme étage)
 
 Nous aurons une présentation de Stéphane Goudeau de Microsoft les approches devops mises en place dans leurs infras et offre de services. Nous finirons avec notre habituel Open-Space. Si vous ne savez pas ce qu'est un open-space je ne peux que vous encourager a lire "la page wikipedia des Open Spaces":https://fr.wikipedia.org/wiki/M%C3%A9thodologie_open_space
 
