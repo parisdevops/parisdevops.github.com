@@ -15,7 +15,7 @@ h2(#meetup-25).  25ème meetup : 13 mai 2014
 Le 13 mai 2014, à 19h00 dans les locaux de "Le Bon Coin":http://www.leboncoin.fr/ (8 rue lavoisier, 75008 Paris)
 
 *Sujet* :
-Ce meetup contiendra un open-space sur les sujets DevOps, et une présentation sur le monitoring.
+Ce meetup contiendra un open-space sur les sujets DevOps, et une présentation a définir.
 
 *Inscriptions* : "sur notre eventbrite":http://parisdevops-25.eventbrite.com
 
