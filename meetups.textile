@@ -10,6 +10,19 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-25).  25ème meetup : 13 mai 2014
+
+Le 13 mai 2014, à 19h00 dans les locaux de "Le Bon Coin":http://www.leboncoin.fr/ (8 rue lavoisier, 75008 Paris)
+
+*Sujet* :
+Ce meetup contiendra un open-space sur les sujets DevOps, et une présentation sur le monitoring.
+
+*Inscriptions* : "sur notre eventbrite":http://parisdevops-25.eventbrite.com
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2014/04/23/prochain-meetup-le-mardi-13-mai.html
+
+
 h2(#meetup-24).  24ème meetup : 1er avril 2014
 
 Le 1er avril 2014, à 19h00 dans les locaux de "IPPON technologies/hosting":http://www.ippon.fr/paris (43-47 avenue de la Grande Armée, 75116 Paris)
