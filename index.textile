@@ -50,8 +50,8 @@ new TWTR.Widget({
 
 h2(#meetups).  Les meetups
 
-* Prochain meetup : "mardi 13 mai 2014":/meetups.html#meetup-25
-* Précédent meetup : "mardi 1er avril 2014":/meetups.html#meetup-24
+* Prochain meetup : "mardi 3 juin 2014":/meetups.html#meetup-26
+* Précédent meetup : "mardi 13 mai 2014":/meetups.html#meetup-25
 
 "Voir tous les meetups":/meetups.html
 
