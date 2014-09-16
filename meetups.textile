@@ -10,6 +10,19 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-28).  28ème meetup : 7 octobre 2014
+
+Le 7 octobre 2014, à 19h00 dans les locaux de "Criteo":http://www.criteo.com/ (32 rue Blanche 75009 Paris)
+
+*Sujet* :
+Ce meetup contiendra une présentation de Guilhem Lettron sur rendre une application ops-friendly, et un open-space sur les sujets DevOps.
+
+*Inscriptions* : "sur notre eventbrite":http://parisdevops-28.eventbrite.com
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2014/09/16/prochain-meetup-le-mardi-7-octobre.html
+
+
 h2(#meetup-27).  27ème meetup : 4 septembre 2014
 
 Le 4 septembre 2014, à 19h30 dans les locaux de "Theodo":http://www.theodo.fr/ (48 Boulevard des Batignolles - 75017 Paris)
