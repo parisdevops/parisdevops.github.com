@@ -10,6 +10,19 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-29).  29ème meetup : 4 novembre 2014
+
+Le 7 novembre 2014, à 19h00 dans les locaux de "Dailymotion":http://www.dailymotion.com/ (140 bd Malesherbes 75017 PARIS)
+
+*Sujet* :
+Ce meetup contiendra une présentation de Raphael Pierquin et un court open-space sur les sujets DevOps.
+
+*Inscriptions* : "sur notre eventbrite":http://parisdevops-28.eventbrite.com
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2014/09/16/prochain-meetup-le-mardi-7-octobre.html
+
+
 h2(#meetup-28).  28ème meetup : 7 octobre 2014
 
 Le 7 octobre 2014, à 19h00 dans les locaux de "Criteo":http://www.criteo.com/ (32 rue Blanche 75009 Paris)
