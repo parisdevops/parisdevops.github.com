@@ -10,6 +10,22 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-30).  30ème meetup : 2 décembre 2014
+
+Le 2 décembre 2014, à 19h00 dans les locaux d' "Automic":http://www.automic.com/ (Tour Franklin, la Défense 8, 101 quartier Boieldieu 92042 Paris la Défense).
+
+*Plus dinformation pour trouver*:
+* "Annonce sur le blog de _Paris DevOps_":/blog/2014/11/18/prochain-meetup-le-mardi-2-decembre.html
+
+*Sujet* :
+Ce meetup contiendra une présentation de Jean-Charles Jorel et un open-space sur les sujets DevOps.
+
+*Inscriptions* : "sur notre eventbrite":http://parisdevops-30.eventbrite.com
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2014/11/18/prochain-meetup-le-mardi-2-decembre.html
+
+
 h2(#meetup-29).  29ème meetup : 4 novembre 2014
 
 Le 7 novembre 2014, à 19h00 dans les locaux de "Dailymotion":http://www.dailymotion.com/ (140 bd Malesherbes 75017 PARIS)
@@ -17,7 +33,7 @@ Le 7 novembre 2014, à 19h00 dans les locaux de "Dailymotion":http://www.dailymo
 *Sujet* :
 Ce meetup contiendra une présentation de Raphael Pierquin et un court open-space sur les sujets DevOps.
 
-*Inscriptions* : "sur notre eventbrite":http://parisdevops-28.eventbrite.com
+*Inscriptions* : "sur notre eventbrite":http://parisdevops-29.eventbrite.com
 
 *Ils en parlent sur le web* :
 * "Annonce sur le blog de _Paris DevOps_":/blog/2014/09/16/prochain-meetup-le-mardi-7-octobre.html
