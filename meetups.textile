@@ -10,6 +10,19 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-31).  31ème meetup : 6 janvier 2015
+
+Le 6 janvier 2015, à 19h00 dans les locaux de "Deezer":http://www.deezer.com/ (10 rue d'Athenes, 75009 Paris).
+
+*Sujet* :
+Ce meetup contiendra une présentation de Dan Maher et un open-space sur les sujets DevOps.
+
+*Inscriptions* : "sur notre eventbrite":http://parisdevops-31.eventbrite.com
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2014/12/17/prochain-meetup-le-mardi-6-janvier.html
+
+
 h2(#meetup-30).  30ème meetup : 2 décembre 2014
 
 Le 2 décembre 2014, à 19h00 dans les locaux d' "Automic":http://www.automic.com/ (Tour Franklin, la Défense 8, 101 quartier Boieldieu 92042 Paris la Défense).
