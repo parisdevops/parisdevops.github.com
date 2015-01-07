@@ -13,7 +13,7 @@ Attention:
  * merci de vous signaler aupres de l'acceuil
  * aucune entrée ne sera possible apres 19h30
 
-Nous aurons une présentation de notre camarade Daniel Maher ("@phrawzty":https://twitter.com/phrawzty pour les intimes) qui nous fera une présentation sur le mouvement Devops en mode "back to the basics". 
+Nous aurons une présentation de notre camarade Daniel Maher ("@phrawzty":https://twitter.com/phrawzty pour les intimes) qui nous fera une présentation sur le mouvement Devops en mode "back to the basics". MaJ: Les slides "sont disponible":https://speakerdeck.com/phrawzty/devops-back-to-basics sur Speakerdeck.
 Suivra notre habituel Open Space.
 
 Vous pouvez d'ores et déja préparer vos discussions en postant sur la mailing-list "paris-devops@googlegroups.com":https://groups.google.com/forum/?fromgroups#!forum/paris-devops
