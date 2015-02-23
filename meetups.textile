@@ -10,6 +10,19 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-33).  33ème meetup : 3 mars 2015
+
+Le 3 mars 2015, à 19h30 dans les locaux de "Gandi":http://www.gandi.net/ (63-65 boulevard massena
+, 75013 Paris)
+
+*Sujet* :
+Ce meetup contiendra un open-space sur les sujets DevOps.
+
+*Inscriptions* : "sur notre eventbrite":http://parisdevops-33.eventbrite.com
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":blog/2015/02/23/prochain-meetup-le-3-mars.html
+
 h2(#meetup-32).  32ème meetup : 10 février 2015
 
 Le 10 février 2015, à 19h00 dans les locaux de "D2SI":http://www.d2-si.fr/ (29 bis Rue d'Astorg, 75008 Paris, Métro Saint-Augustin)
