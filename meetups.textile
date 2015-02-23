@@ -20,7 +20,8 @@ Ce meetup contiendra une présentation de Laurent Barrez et un open-space sur le
 *Inscriptions* : "sur notre eventbrite":http://parisdevops-32.eventbrite.com
 
 *Ils en parlent sur le web* :
-* "Annonce sur le blog de _Paris DevOps_":/blog/2015/1/21/prochain-meetup-le-mardi-10-fevrier.html
+* "Annonce sur le blog de _Paris DevOps_":/blog/2015/01/21/prochain-meetup-le-10-fevrier.html
+* "La présentation de Laurent Barrez":/download/meetup-32-hawaii.pdf
 
 
 h2(#meetup-31).  31ème meetup : 6 janvier 2015

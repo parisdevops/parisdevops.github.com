@@ -11,6 +11,8 @@ Cette fois-ci nous nous retrouverons donc le *mardi 10 février* a *19h00* dans 
 
 Notre intervenant, Laurent Barrez, responsable de l'équipe "Cycle de vie" chez Ag2r La Mondiale, nous présentera son retour d’expérience "HAWAII", ou les prémisses du DevOps dans un Groupe d'Assurance/Prévoyance/Retraite. Suivra notre habituel Open Space.
 
+_MaJ_: les "slides sont maintenant disponibles":/download/meetup-32-hawaii.pdf
+
 Vous pouvez d'ores et déja préparer vos discussions en postant sur la mailing-list "paris-devops@googlegroups.com":https://groups.google.com/forum/?fromgroups#!forum/paris-devops
 
 Enfin, nous sommes toujours a la recherche de sponsors pouvant héberger nos meetups tout au long de l'année; si votre entreprise possede des locaux dans Paris, n'hésitez pas a vous faire connaitre !
