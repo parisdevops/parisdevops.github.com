@@ -10,6 +10,18 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-34).  34ème meetup : 1 septembre 2015
+
+Le 3 mars 2015, à 19h30 dans les locaux de "Microsoft Ventures Paris":https://www.microsoftventures.com/locations/paris (6 rue du Sentier, 75002 Paris France)
+
+*Sujet* :
+Ce meetup contiendra un open-space sur les sujets DevOps.
+
+*Inscriptions* : "sur notre eventbrite":http://parisdevops-34.eventbrite.com
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":blog/2015/07/23/prochain-meetup-le-1-septembre.html
+
 h2(#meetup-33).  33ème meetup : 3 mars 2015
 
 Le 3 mars 2015, à 19h30 dans les locaux de "Gandi":http://www.gandi.net/ (63-65 boulevard massena
@@ -315,8 +327,8 @@ Le jeudi 7 juin 2012, à 19h dans les locaux de "Valtech":http://valtech.fr/fr/i
 <a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=MTNjbGpkbG92NHRucDdjYm1zbGFzczJzM2sgcGFyaXNkZXZvcHNAbQ&tmsrc=parisdevops%40gmail.com"><img border="0" src="http://www.google.com/calendar/images/ext/gc_button1_fr.gif"></a> Ajouter dans votre agenda Google
 
 *Sujet* :
-* Devops illustré : la jungle de la configuration d'une application - Gilles Di Guglielmo et Dimitri Baeli - 30 mn 
-* Continuous deployement : Rackspace, Chef et capistrano en action - Stéphane RIOS et Bertrand Paquet - 30 mn 
+* Devops illustré : la jungle de la configuration d'une application - Gilles Di Guglielmo et Dimitri Baeli - 30 mn
+* Continuous deployement : Rackspace, Chef et capistrano en action - Stéphane RIOS et Bertrand Paquet - 30 mn
 * Discussion sur les prochaines sessions - 1 h
 
 *Inscriptions* : "http://parisdevops-9.eventbrite.com/":http://parisdevops-9.eventbrite.com/
