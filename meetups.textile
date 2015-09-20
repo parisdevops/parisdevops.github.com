@@ -10,9 +10,21 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-35).  35ème meetup : 7 octobre 2015
+
+Le 7 octobre 2015, à 19h30 dans les locaux de "Logmatic.io":http://logmatic.io (130 Rue de Lourmel, 75015 Paris - France)
+
+*Sujet* :
+Un meetup un peu particulier puisqu'il est organisé conjointement avec Paris Monitoring.
+
+*Inscriptions* : "sur notre eventbrite":http://parisdevops-35.eventbrite.com
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":blog/2015/07/23/prochain-meetup-le-7-octobre.html
+
 h2(#meetup-34).  34ème meetup : 1 septembre 2015
 
-Le 3 mars 2015, à 19h30 dans les locaux de "Microsoft Ventures Paris":https://www.microsoftventures.com/locations/paris (6 rue du Sentier, 75002 Paris France)
+Le 1 septembre 2015, à 19h30 dans les locaux de "Microsoft Ventures Paris":https://www.microsoftventures.com/locations/paris (6 rue du Sentier, 75002 Paris France)
 
 *Sujet* :
 Ce meetup contiendra un open-space sur les sujets DevOps.
