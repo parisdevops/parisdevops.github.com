@@ -14,7 +14,9 @@ Le prochain meetup se déroulera donc le mercredi 7 octobre dans les locaux de "
 
 Merci également à "Ikoula":https://www.ikoula.com/ qui nous permettra de nous restaurer.
 
-Pour le moment il n'y a pas de présentation de prévue, mais si vous avez une proposition, n'hésitez pas à vous manifester sur la mailling-list "paris-devops@googlegroups.com":https://groups.google.com/forum/?fromgroups#!forum/paris-devops
+Nous avons un talk qui a été confirmé dont voici le sujet :
+*DevOps et autres tendances Monitoring chez les grands acteurs du Web*
+(Par François Nollen, Consultant Talan Labs chez Voyages-SNCF Technologies)
 
 Pour les inscriptions ça se passe par là : "Eventbrite Paris devops":http://parisdevops-35.eventbrite.fr
 
