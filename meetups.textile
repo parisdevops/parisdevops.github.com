@@ -10,6 +10,18 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-36).  36ème meetup : 3 novembre 2015
+
+Le 3 novembre, à 19h00 dans les locaux de "Dailymotion":http://www.dailymotion.com/ (140 bd Malesherbes 75017 PARIS)
+
+*Sujet* :
+Ce meetup contiendra une présentation de Guilhem Lettron et un open-space sur les sujets DevOps.
+
+*Inscriptions* : "sur notre eventbrite":http://parisdevops-36.eventbrite.com
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2015/10/23/prochain-meetup-le-3-novembre.html
+
 h2(#meetup-35).  35ème meetup : 7 octobre 2015
 
 Le 7 octobre 2015, à 19h30 dans les locaux de "Logmatic.io":http://logmatic.io (130 Rue de Lourmel, 75015 Paris - France)
