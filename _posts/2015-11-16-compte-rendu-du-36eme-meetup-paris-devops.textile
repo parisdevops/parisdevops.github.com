@@ -16,23 +16,23 @@ Comme pour le meetup précédent n'ayant pas participé à toutes les discussion
 
 Dans le désordre le plus complet voici les sujets qui furent abordés:
 
-* _"Démonstration de l’outil de monitoring Pinba": cet outils permet de surveiller en temps réel l’activité d’un serveur PHP (ou autres) utilisant une interface MySQL. ("pinba":http://pinba.org/)
+* _"Démonstration de l’outil de monitoring Pinba"_: cet outils permet de surveiller en temps réel l’activité d’un serveur PHP (ou autres) utilisant une interface MySQL. ("pinba":http://pinba.org/)
 
-* _"Les 10 erreurs à ne pas commettre lorsque l’on débute dans le DevOps"
+* _"Les 10 erreurs à ne pas commettre lorsque l’on débute dans le DevOps"_.
 
-* _"Présentation de Kubernetes": Présentation de l’outil de Google qui facilite la gestion d’un cluster de containers Linux
+* _"Présentation de Kubernetes"_: Présentation de l’outil de Google qui facilite la gestion d’un cluster de containers Linux
 
-* _"Culture sharing": Comment partager les connaissances et l'expérience concernant la sécurité avec une culture DevOps.
+* _"Culture sharing"_: Comment partager les connaissances et l'expérience concernant la sécurité avec une culture DevOps.
 
-* _"Dans un environnement DevOps": les devs doivent il forcément avoir des connaissances ops (et vice-versa) ?
+* _"Dans un environnement DevOps"_: les devs doivent il forcément avoir des connaissances ops (et vice-versa) ?
 
-* _"Gestion du changement ou loi des deux pieds".
+* _"Gestion du changement ou loi des deux pieds"_.
 
-* _"Que font les grands groupes vis à vis du DevOps ?""
+* _"Que font les grands groupes vis à vis du DevOps ?"_
 
-* _"DevOps et les pratiques ITIL sont-ils compatibles ?"
+* _"DevOps et les pratiques ITIL sont-ils compatibles ?"_
 
-* _"Retour sur les meetups Paris DevOps": Comment faire grossir le meetup ?
+* _"Retour sur les meetups Paris DevOps"_: Comment faire grossir le meetup ?
 
 Tout au long des pauses rafraichissements, de nombreux sujets ont été abordés en relation avec devops (ou non) au gré des discussions :)
 
