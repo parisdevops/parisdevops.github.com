@@ -10,6 +10,19 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
+h2(#meetup-37).  37ème meetup : 1 décembre 2015
+
+Le 1 décembre, à 19h00 dans les locaux de "Claranet":http://www.claranet.fr/ (18-20 rue du Faubourg du Temple 75011 Paris)
+
+*Sujet* :
+Ce meetup contiendra un open-space sur les sujets DevOps.
+
+*Inscriptions* : sur notre "meetup.com":http://www.meetup.com/Paris-Devops-Meetup/events/226809770/
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2015/11/16/prochain-meetup-le-1-decembre.html
+
+
 h2(#meetup-36).  36ème meetup : 3 novembre 2015
 
 Le 3 novembre, à 19h00 dans les locaux de "Dailymotion":http://www.dailymotion.com/ (140 bd Malesherbes 75017 PARIS)
