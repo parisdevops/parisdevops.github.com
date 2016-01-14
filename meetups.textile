@@ -3,7 +3,7 @@ layout: page
 title: Les meetups
 ---
 
-L'un des principaux objectifs de _Paris DevOps_ est d'organiser des *meetups*, sous forme d'open-spaces (discussions en petit groupes) ou de présentations plus formelles, avec toujours un accent sur les *retours d'expérience*.
+L'un des principaux objectifs de _Paris DevOps_ est d'organiser des *meetups*, sous forme "d'open-spaces":/define/openspace.html (discussions en petit groupes) ou de présentations plus formelles, avec toujours un accent sur les *retours d'expérience*.
 Le rythme est environ un meetup tous les mois, habituellement le premier mardi vers 19h. Voir la page sur la "communauté":/communaute.html pour être informé des meetups.
 Vous pouvez vous abonner au calendrier : via "Google Calendar":https://www.google.com/calendar/render?cid=https://www.google.com/calendar/ical/parisdevops%40gmail.com/public/basic.ics ou "au format iCal":https://www.google.com/calendar/ical/parisdevops%40gmail.com/public/basic.ics.
 Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://parisdevops.eventbrite.com/.

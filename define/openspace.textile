@@ -1,0 +1,46 @@
+---
+layout: page
+title: Open-space
+---
+
+À chaque meetup, nous organisons un open space afin de discuter librement des sujets qui nous sont chers.
+
+h2(#intro). Introduction
+
+L'open space est un moment de discussion sur des sujets choisis par les participants eux-mêmes tournant autour de notre thème principale : la culture devops.
+
+h2(#progress). Déroulement
+
+Au début de l'open space, des post-its circuleront parmi les participants pour que chacun puisse inscrire un titre de sujet afin de le présenter brièvement et de le coller au mur.
+
+Après que chacun ait l'occasion de créer ainsi un ou plusieurs sujets, c'est le tour des votes. Chaque participant marque un point sur chaque post-it dont le sujet l'intéresse.
+
+L'organisateur va pouvoir alors sélectionner les sujets avec le plus de vote et répartira les sujets dans les différents espaces de discussion et les différents horaires.
+
+Commence alors réellement l'open space qui suit ces quelques règles :
+
+h3(#rules). Les règles
+
+<dl>
+    <dt>Le commencement</dt>
+    <dd><em>Un open space commence quand il commence.<em> C'est à dire que dès que le sujet est engagé, l'open space est ouvert. Que l'on soit dans la salle, à l'heure ou pas.</dd>
+
+    <dt>La fin</dt>
+    <dd><em>Lorsque c'est fini, c'est fini.</em> L'open space finit quand les participants n'ont plus rien à dire sur le sujet, pas besoin de forcer la conversation uniquement pour tenir le temps imparti. De même, même si l'horaire est dépassé, on laissera la place au nouveau sujet, mais le sujet courant peut continuer dans les couloirs ou au café.</dd>
+
+    <dt>L'arrivée</dt>
+    <dd>Chaque personne a sa place dans un open space. Il faut laisser la possibilité à chacun de s'exprimer, qu'il soit un expert sur le sujet ou non, qu'il soit arrivé dès le début du sujet, ou qu'il vient d'arriver il y a 2 secondes.</dd>
+
+    <dt>Les deux pieds</dt>
+    <dd>Lorsque l'on n'a rien à dire, que le sujet ne nous intéresse plus, ou tout simplement pour voir ailleurs si c'est plus intéressant, on prend ses deux pieds et on y va. Ce n'est pas malpoli de partir d'un open space en cours. Chacun est libre d'employer son temps comme il l'entend.</dd>
+</dl>
+
+
+
+h2(#tips). Trucs et astuces
+
+1. Plus il y a de sujets, mieux c'est. N'hésitez pas à proposer des sujets.
+2. Un sujet qui n'est pas traité dans un open space peut être reproposé dans l'open space suivant.
+3. Un sujet traité dans un open space peut être reproposé dans l'open space suivant.
+4. Participez aux open spaces qui vont intéressent, soit par curiosité, soit par expertise, soit par professionnalisme.
+5. N'hésitez pas à donner votre avis, à poser des questions, à répondre aux questions poser, bref, participez.
