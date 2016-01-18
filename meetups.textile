@@ -10,7 +10,19 @@ Les inscriptions se font sur Eventbrite : "parisdevops.eventbrite.com":http://pa
 
 Voilà la liste des meetups passés et à venir :
 
-h2(#meetup-37).  38ème meetup : 12 janvier 2015
+h2(#meetup-39).  39ème meetup : 2 février 2016
+
+Le 2 février, à 19h00 dans les locaux de "D2SI":http://www.d2-si.fr/ (29 bis rue d'Astorg - 75008 Paris)
+
+*Sujet* :
+Ce meetup contiendra un open-space sur les sujets DevOps.
+
+*Inscriptions* : sur notre "meetup.com":http://www.meetup.com/fr/Paris-Devops-Meetup/events/228174380/
+
+*Ils en parlent sur le web* :
+* "Annonce sur le blog de _Paris DevOps_":/blog/2016/01/18/prochain-meetup-le-2-fevrier.html
+
+h2(#meetup-38).  38ème meetup : 12 janvier 2016
 
 Le 12 janvier, à 19h00 dans les locaux de "Mobiskill":http://www.mobiskill.fr/ (43 Rue Beaubourg, 75003 Paris)
 
