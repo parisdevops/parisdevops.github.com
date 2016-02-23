@@ -83,7 +83,7 @@ Un meetup un peu particulier puisqu'il est organisé conjointement avec Paris Mo
 *Inscriptions* : "sur notre eventbrite":http://parisdevops-35.eventbrite.com
 
 *Ils en parlent sur le web* :
-* "Annonce sur le blog de _Paris DevOps_":blog/2015/07/23/prochain-meetup-le-7-octobre.html
+* "Annonce sur le blog de _Paris DevOps_":blog/2015/09/20/prochain-meetup-le-7-octobre.html
 
 h2(#meetup-34).  34ème meetup : 1 septembre 2015
 
