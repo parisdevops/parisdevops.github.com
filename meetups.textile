@@ -21,7 +21,7 @@ Ce meetup contiendra une présentation sur le sujet des "générations" dans l'I
 *Inscriptions* : sur notre "meetup.com":http://www.meetup.com/fr/Paris-Devops-Meetup/events/229065792/
 
 *Ils en parlent sur le web* :
-* "Annonce sur le blog de _Paris DevOps_":/blog/2016/01/18/prochain-meetup-le-2-fevrier.html
+* "Annonce sur le blog de _Paris DevOps_":/blog/2016/02/23/prochain-meetup-le-8-mars.html
 
 h2(#meetup-39).  39ème meetup : 2 février 2016
 
