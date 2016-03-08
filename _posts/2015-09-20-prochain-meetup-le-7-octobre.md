@@ -1,0 +1,22 @@
+---
+layout: post
+title: Prochain meetup le mercredi 7 octobre !
+published: true
+categories: [meetup]
+---
+
+Ce mois-ci nous allons changé pas mal nos habitudes. Tout d’abord nous nous retrouverons un mercredi au lieu d’un mardi. Ensuite nous allons organiser 2 meetups en 1 puisque [Paris Monitoring](http://www.meetup.com/fr/Paris-Monitoring/) est co-organisateur de ce meetup et les 2 communautés vont avoir l’occasion d’échanger ensemble. Enfin, qui dit 2 communautés, dit 2 sponsors ce mois-ci. En revanche, nous ne changeons pas de format et les open-spaces permettront de favoriser le partage d’expérience.
+
+Le prochain meetup se déroulera donc le mercredi 7 octobre dans les locaux de [Logmatic.io](http://logmatic.io) :
+130 Rue de Lourmel
+75015 Paris
+
+Merci également à [Ikoula](https://www.ikoula.com/) qui nous permettra de nous restaurer.
+
+Nous avons un talk qui a été confirmé dont voici le sujet :
+**DevOps et autres tendances Monitoring chez les grands acteurs du Web**
+(Par François Nollen, Consultant Talan Labs chez Voyages-SNCF Technologies)
+
+Pour les inscriptions ça se passe par là : [Eventbrite Paris devops](http://parisdevops-35.eventbrite.fr)
+
+RDV le 7 octobre !
