@@ -8,50 +8,16 @@ title: Présentation
 Les dernières infos
 -------------------
 
-<script src="http://widgets.twimg.com/j/2/widget.js">
-</script>
-<script>
-new TWTR.Widget({
- version: 2,
- type: ‘profile’,
- rpp: 3,
- interval: 6000,
- width: ‘auto’,
- height: 300,
- theme: {
- shell: {
- background: ‘\#ffffff’,
- color: ‘\#000000’
- },
- tweets: {
- background: ‘\#ffffff’,
- color: ‘\#000000’,
- links: ‘\#0045b3’
- }
- },
- features: {
- scrollbar: false,
- loop: false,
- live: false,
- hashtags: true,
- timestamp: true,
- avatars: false,
- behavior: ‘all’
- }
-}).render().setUser(‘parisdevops’).start();
-
-</script>
 <ul class="toc">
-{% for post in site.posts limit:3 %}
+    {% for post in site.posts limit:3 %}
+        <li>
+            {{ post.date | date: "%Y/%m/%d" }} : <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+    {% endfor %}
 
-<li>
-{{ post.date | date: “%d/%m/%Y” }} : <a href="{{ post.url }}">{{ post.title }}</a></li>
- {% endfor %}
-
-<li>
-<a href="/blog">Voir tous les billets</a></li>
-
+    <li> <a href="/blog">Voir tous les billets</a></li>
 </ul>
+
 Les meetups
 -----------
 
@@ -59,3 +25,35 @@ Les meetups
 -   Précédent meetup : [mardi 2 février 2016](/meetups.html#meetup-39)
 
 [Voir tous les meetups](/meetups.html)
+
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+    new TWTR.Widget({
+        version: 2,
+        type: ‘profile’,
+        rpp: 3,
+        interval: 6000,
+        width: ‘auto’,
+        height: 300,
+        theme: {
+        shell: {
+        background: ‘\#ffffff’,
+        color: ‘\#000000’
+        },
+        tweets: {
+        background: ‘\#ffffff’,
+        color: ‘\#000000’,
+        links: ‘\#0045b3’
+        }
+        },
+        features: {
+        scrollbar: false,
+        loop: false,
+        live: false,
+        hashtags: true,
+        timestamp: true,
+        avatars: false,
+        behavior: ‘all’
+        }
+    }).render().setUser(‘parisdevops’).start();
+</script>

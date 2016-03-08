@@ -5,17 +5,17 @@ title: Blog - billets par thème
 
 {% for category in site.categories %}
 
-{% capture category\_name %}
+{% capture category_name %}
     {{ category | first }}
 {% endcapture %}
 
-{{category\_name}} ({{ site.categories[category\_name] | size }})
------------------------------------------------------------------
+{{category_name}} ({{ site.categories[category_name] | size }})
+---------------------------------------------------------------
 
 <ul class="toc">
-    {% for post in site.categories[category\_name] %}
+    {% for post in site.categories[category_name] %}
         <li>
-            {{ post.date | date: “%d/%m/%Y” }} : <a href="{{ post.url }}">{{ post.title }}</a>
+            {{ post.date | date: "%Y/%m/%d" }} : <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
     {% endfor %}
 </ul>
