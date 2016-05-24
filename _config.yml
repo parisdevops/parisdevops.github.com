@@ -1,4 +1,4 @@
-pygments: true
+highlighter: rouge
 safe: true
 lsi: false
 
