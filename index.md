@@ -21,8 +21,8 @@ Les dernières infos
 Les meetups
 -----------
 
--   Prochain meetup : [mardi 8 mars 2016](/meetups.html#meetup-40)
--   Précédent meetup : [mardi 2 février 2016](/meetups.html#meetup-39)
+-   Prochain meetup : [mardi 7 juin 2016](/meetups.html#meetup-43)
+-   Précédent meetup : [mardi 10 mai 2016](/meetups.html#meetup-42)
 
 [Voir tous les meetups](/meetups.html)
 

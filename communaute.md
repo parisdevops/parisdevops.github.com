@@ -5,6 +5,12 @@ title: La communauté
 
 Envie de nous rejoindre ? Faites votre choix :
 
+Meetup.com
+------------
+
+N’hésitez pas à vous inscrire sur meetup.com pour participer aux prochains [meetups](/meetups.html).
+
+
 Mailing-list
 ------------
 

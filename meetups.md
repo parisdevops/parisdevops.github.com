@@ -5,10 +5,40 @@ title: Les meetups
 
 L’un des principaux objectifs de *Paris DevOps* est d’organiser des **meetups**, sous forme d’open-spaces (discussions en petit groupes) ou de présentations plus formelles, avec toujours un accent sur les **retours d’expérience**.
 Le rythme est environ un meetup tous les mois, habituellement le premier mardi vers 19h. Voir la page sur la [communauté](/communaute.html) pour être informé des meetups.
-Vous pouvez vous abonner au calendrier : via [Google Calendar](https://www.google.com/calendar/render?cid=https://www.google.com/calendar/ical/parisdevops%40gmail.com/public/basic.ics) ou [au format iCal](https://www.google.com/calendar/ical/parisdevops%40gmail.com/public/basic.ics).
-Les inscriptions se font sur Eventbrite : [parisdevops.eventbrite.com](http://parisdevops.eventbrite.com/).
+Les inscriptions se font sur Eventbrite : [meetup.com](http://www.meetup.com/fr-FR/Paris-Devops-Meetup/).
 
 Voilà la liste des meetups passés et à venir :
+
+43ème meetup : 7 juin 2016
+--------------------------
+
+Le 7 juin, de 19h00 à 21h30 dans les locaux de [Finance Active](http://www.financeactive.com/fr/) (46 rue Notre Dame des Victoires, 75002 Paris)
+
+**Sujet** :
+Ce meetup contiendra un open-space sur les sujets DevOps.
+
+**Inscriptions** : sur notre [meetup.com](http://www.meetup.com/fr/Paris-Devops-Meetup/events/229065792/)
+
+42ème meetup : 10 mai 2016
+--------------------------
+
+Le 10 mai, de 19h00 à 22h30 dans les locaux de [IPPON technologies](http://www.ippon.fr/paris) (47 Avenue de la Grande Armee, 75016 Paris)
+
+**Sujet** :
+Ce meetup contiendra un open-space sur les sujets DevOps.
+
+**Inscriptions** : sur notre [meetup.com](http://www.meetup.com/fr-FR/Paris-Devops-Meetup/events/230697746/)
+
+41ème meetup : 12 avril 2016
+--------------------------
+
+Le 12 avril, de 19h00 à 22h30 dans les locaux de [Deezer](http://www.deezer.com/) (12 rue d’Athenes, 75009 Paris)
+
+**Sujet** :
+Ce meetup contiendra une présentation de Frederic de Villamil sur un retour d'expérience intitulé “Devops Commando”:  de la reprise d'une infrastructure tombé à l’abandon, et création d'une équipe orientée devops.
+Nous poursuivons ensuite avec un open-space sur les sujets DevOps.
+
+**Inscriptions** : sur notre [meetup.com](http://www.meetup.com/fr-FR/Paris-Devops-Meetup/events/229970268/)
 
 40ème meetup : 8 mars 2016
 --------------------------
